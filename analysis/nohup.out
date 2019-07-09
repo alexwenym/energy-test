@@ -1,0 +1,34 @@
+Using a subsampled size of 500000 from the distance distribution
+Reading ../data/sample1.txt as file1 and ../data/sample2.txt as file2.
+Finished reading files.
+the p value from the ks 2 sample test is 0.015486055832515392
+the ks test statistic is 0.003117999999999954
+Using a subsampled size of 500000 from the distance distribution
+Reading ../data/sample1.txt as file1 and ../data/sample2.txt as file2.
+Finished reading files.
+the p value from the ks 2 sample test is 4.377688439409826e-07
+the ks test statistic is 0.005538000000000043
+Traceback (most recent call last):
+  File "distance_tests.py", line 122, in <module>
+    plt.figure()
+  File "/home/hep/ayw19/opt/python-3.6.2/lib/python3.6/site-packages/matplotlib/pyplot.py", line 539, in figure
+    **kwargs)
+  File "/home/hep/ayw19/opt/python-3.6.2/lib/python3.6/site-packages/matplotlib/backend_bases.py", line 3252, in new_figure_manager
+    return cls.new_figure_manager_given_figure(num, fig)
+  File "/home/hep/ayw19/opt/python-3.6.2/lib/python3.6/site-packages/matplotlib/backends/_backend_tk.py", line 946, in new_figure_manager_given_figure
+    window = tk.Tk(className="matplotlib")
+  File "/home/hep/ayw19/opt/python-3.6.2/lib/python3.6/tkinter/__init__.py", line 2017, in __init__
+    self.tk = _tkinter.create(screenName, baseName, className, interactive, wantobjects, useTk, sync, use)
+_tkinter.TclError: couldn't connect to display "localhost:10.0"
+Traceback (most recent call last):
+  File "distance_tests.py", line 122, in <module>
+    plt.figure()
+  File "/home/hep/ayw19/opt/python-3.6.2/lib/python3.6/site-packages/matplotlib/pyplot.py", line 539, in figure
+    **kwargs)
+  File "/home/hep/ayw19/opt/python-3.6.2/lib/python3.6/site-packages/matplotlib/backend_bases.py", line 3252, in new_figure_manager
+    return cls.new_figure_manager_given_figure(num, fig)
+  File "/home/hep/ayw19/opt/python-3.6.2/lib/python3.6/site-packages/matplotlib/backends/_backend_tk.py", line 946, in new_figure_manager_given_figure
+    window = tk.Tk(className="matplotlib")
+  File "/home/hep/ayw19/opt/python-3.6.2/lib/python3.6/tkinter/__init__.py", line 2017, in __init__
+    self.tk = _tkinter.create(screenName, baseName, className, interactive, wantobjects, useTk, sync, use)
+_tkinter.TclError: couldn't connect to display "localhost:10.0"

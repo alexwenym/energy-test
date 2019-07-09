@@ -1,0 +1,76 @@
+nohup: ignoring input
+Running in exact mode
+Distance parameter set to 0.054
+Dataset 1 size is 10000
+Dataset 2 size is 10000
+
+Calculating test statistic for nominal dataset:
+    dist_11 = 0.0183702
+    dist_22 = 0.0182152
+    dist_12 = 0.0365719
+  T = 1.34645e-05
+
+Running 500 permutations of 10000 and 10000 events using seed 5489
+Calculating permutation 100 of 500
+Calculating permutation 200 of 500
+Calculating permutation 300 of 500
+Calculating permutation 400 of 500
+Calculating permutation 500 of 500
+p value is: 0.196
+nohup: ignoring input
+Running in exact mode
+Distance parameter set to 0.054
+Dataset 1 size is 10000
+Dataset 2 size is 10000
+
+Calculating test statistic for nominal dataset:
+    dist_11 = 0.0183702
+    dist_22 = 0.0182152
+    dist_12 = 0.0365719
+  T = 1.34645e-05
+
+Running 500 permutations of 10000 and 10000 events using seed 2871
+Calculating permutation 100 of 500
+Calculating permutation 200 of 500
+Calculating permutation 300 of 500
+Calculating permutation 400 of 500
+Calculating permutation 500 of 500
+p value is: 0.206
+nohup: ignoring input
+Running in exact mode
+Distance parameter set to 0.054
+Dataset 1 size is 10000
+Dataset 2 size is 10000
+
+Calculating test statistic for nominal dataset:
+    dist_11 = 0.0183702
+    dist_22 = 0.0182152
+    dist_12 = 0.0365719
+  T = 1.34645e-05
+
+Running 500 permutations of 10000 and 10000 events using seed 3589
+Calculating permutation 100 of 500
+Calculating permutation 200 of 500
+Calculating permutation 300 of 500
+Calculating permutation 400 of 500
+Calculating permutation 500 of 500
+p value is: 0.236
+nohup: ignoring input
+Running in exact mode
+Distance parameter set to 0.054
+Dataset 1 size is 10000
+Dataset 2 size is 10000
+
+Calculating test statistic for nominal dataset:
+    dist_11 = 0.0183702
+    dist_22 = 0.0182152
+    dist_12 = 0.0365719
+  T = 1.34645e-05
+
+Running 500 permutations of 10000 and 10000 events using seed 9776
+Calculating permutation 100 of 500
+Calculating permutation 200 of 500
+Calculating permutation 300 of 500
+Calculating permutation 400 of 500
+Calculating permutation 500 of 500
+p value is: 0.228

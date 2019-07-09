@@ -1,0 +1,172 @@
+Distance parameter set to 0.001
+  T = -1.86573e-07
+p value is: 0.625
+
+Distance parameter set to 0.01
+  T = -3.60183e-06
+p value is: 0.79
+
+Distance parameter set to 0.1
+
+libgomp: Thread creation failed: Resource temporarily unavailable
+
+  T = -9.16122e-06
+p value is: 0.87
+
+Distance parameter set to 10
+  T = -1.15235e-07
+p value is: 0.955
+
+Distance parameter set to 100
+  T = -1.15506e-09
+p value is: 0.955
+
+Distance parameter set to 1000
+  T = -1.15932e-11
+p value is: 0.955
+
+Distance parameter set to 0.05
+  T = 1.199e-05
+p value is: 0.205
+
+Distance parameter set to 0.15
+  T = -2.68506e-06
+p value is: 0.48
+
+Distance parameter set to 0.2
+  T = -8.71773e-06
+p value is: 0.505
+
+Distance parameter set to 0.25
+  T = -1.35879e-05
+p value is: 0.54
+
+Distance parameter set to 0.3
+
+libgomp: Thread creation failed: Resource temporarily unavailable
+
+Distance parameter set to 0.35
+  T = -1.92212e-05
+p value is: 0.64
+
+Distance parameter set to 0.4
+
+libgomp: Thread creation failed: Resource temporarily unavailable
+
+Distance parameter set to 0.45
+  T = -2.01165e-05
+p value is: 0.745
+
+Distance parameter set to 0.5
+  T = -1.94756e-05
+p value is: 0.76
+
+Distance parameter set to 0.02
+  T = -6.05432e-06
+p value is: 0.755
+
+Distance parameter set to 0.04
+  T = 6.3779e-06
+p value is: 0.31
+
+Distance parameter set to 0.06
+  T = 1.48049e-05
+p value is: 0.2
+
+Distance parameter set to 0.08
+  T = 1.30383e-05
+p value is: 0.27
+
+Distance parameter set to 0.1
+  T = 7.19653e-06
+p value is: 0.39
+Running in exact mode
+Distance parameter set to 0.05
+Dataset 1 size is 10000
+Dataset 2 size is 10000
+
+Calculating test statistic for nominal dataset:
+    dist_11 = 0.0162234
+    dist_22 = 0.0161198
+    dist_12 = 0.0323312
+  T = 1.199e-05
+
+Running 200 permutations of 10000 and 10000 events using seed 5489
+Calculating permutation 100 of 200
+Calculating permutation 200 of 200
+p value is: 0.205
+Running in exact mode
+Distance parameter set to 0.054
+Dataset 1 size is 10000
+Dataset 2 size is 10000
+
+Calculating test statistic for nominal dataset:
+    dist_11 = 0.0183702
+    dist_22 = 0.0182152
+    dist_12 = 0.0365719
+  T = 1.34645e-05
+
+Running 200 permutations of 10000 and 10000 events using seed 5489
+Calculating permutation 100 of 200
+Calculating permutation 200 of 200
+p value is: 0.205
+Running in exact mode
+Distance parameter set to 0.058
+Dataset 1 size is 10000
+Dataset 2 size is 10000
+
+Calculating test statistic for nominal dataset:
+    dist_11 = 0.0205981
+    dist_22 = 0.0203876
+    dist_12 = 0.0409713
+  T = 1.44728e-05
+
+Running 200 permutations of 10000 and 10000 events using seed 5489
+Calculating permutation 100 of 200
+Calculating permutation 200 of 200
+p value is: 0.205
+Running in exact mode
+Distance parameter set to 0.062
+Dataset 1 size is 10000
+Dataset 2 size is 10000
+
+Calculating test statistic for nominal dataset:
+    dist_11 = 0.0229019
+    dist_22 = 0.0226321
+    dist_12 = 0.045519
+  T = 1.50261e-05
+
+Running 200 permutations of 10000 and 10000 events using seed 5489
+Calculating permutation 100 of 200
+Calculating permutation 200 of 200
+p value is: 0.205
+Running in exact mode
+Distance parameter set to 0.066
+Dataset 1 size is 10000
+Dataset 2 size is 10000
+
+Calculating test statistic for nominal dataset:
+    dist_11 = 0.0252766
+    dist_22 = 0.0249444
+    dist_12 = 0.0502059
+  T = 1.51548e-05
+
+Running 200 permutations of 10000 and 10000 events using seed 5489
+Calculating permutation 100 of 200
+Calculating permutation 200 of 200
+p value is: 0.215
+Running in exact mode
+Distance parameter set to 0.07
+Dataset 1 size is 10000
+Dataset 2 size is 10000
+
+Calculating test statistic for nominal dataset:
+    dist_11 = 0.0277177
+    dist_22 = 0.0273205
+    dist_12 = 0.0550233
+  T = 1.49062e-05
+
+Running 200 permutations of 10000 and 10000 events using seed 5489
+Calculating permutation 100 of 200
+Calculating permutation 200 of 200
+p value is: 0.22
