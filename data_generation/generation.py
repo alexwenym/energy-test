@@ -40,8 +40,10 @@ def generate_eccentric(nevents, eccratio):
     
     normalnum = int(nevents*(1-eccratio)) 
     eccnum = int(nevents*eccratio)
-    while normalnum+eccnum != nevents: 
+    if normalnum+eccnum > nevents: 
         eccnum = eccnum-1
+    if normalnum+eccnum < nevents: 
+        eccnum = eccnum+1
     assert normalnum+eccnum == nevents
 
     l = np.random.uniform(0,1,size=(normalnum, 3))

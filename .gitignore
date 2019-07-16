@@ -1,2 +1,4 @@
 /data
 /data_generation/*.txt
+/analysis/kspermuted.txt
+/analysis/ks_tests/ksiterationdata.txt

@@ -25,7 +25,7 @@ testname = args.testname
 
 
 with open(datafile) as datafile: 
-    lines=datafile.readlines()
+    lines=datafile.readlines()[1:]
     ksdist = [float(line) for line in lines]
 
 print('Finished reading file.')
@@ -50,7 +50,7 @@ if show_plots in ['True', 'y', '1']:
 
     text = 'Nominal ' +testname+' statistic: ' + str(ksvalue) +'\n'+ 'p-value: ' + str(pvalue) 
 
-    plt.hist(ksdist, bins=int(len(ksdist)/15), log=False)
+    plt.hist(ksdist, bins=120, log=True) #int(len(ksdist)/15), log=False)
     plt.title(testname + ' distribution')
     plt.axvline(x=ksvalue, color='r', linewidth=1, ymax=0.75)
     plt.text(0.5,0.9,text,transform=plt.gca().transAxes)
