@@ -1,0 +1,32 @@
+nohup: ignoring input
+WARNING: this assumes that your sample sizes are equal. If they are not, manually introduce an alpha scaling factor in the chi2test() function.
+Reading ../data/trunc_sample1.txt as file1 and ../data/trunc_sample2.txt as file2.
+Finished reading files.
+Running the chi2 test with 500 permutations.
+The nominal chi2 value is 18973.398015438706
+Reached test #0
+Reached test #20
+Reached test #40
+Reached test #60
+Reached test #80
+Reached test #100
+Reached test #120
+Reached test #140
+Reached test #160
+Reached test #180
+Reached test #200
+Reached test #220
+Reached test #240
+Reached test #260
+Reached test #280
+Reached test #300
+Reached test #320
+Reached test #340
+Reached test #360
+Reached test #380
+Reached test #400
+Reached test #420
+Reached test #440
+Reached test #460
+Reached test #480
+Files successfully saved.

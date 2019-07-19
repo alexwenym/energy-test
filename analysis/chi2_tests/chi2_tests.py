@@ -1,4 +1,5 @@
 import numpy as np
+from numpy import asarray
 import matplotlib.pyplot as plt
 import matplotlib
 import sys
@@ -6,9 +7,10 @@ import scipy.stats
 import numpy.random
 import argparse
 import time
+import distances
 
  
-parser = argparse.ArgumentParser(description='Obtains the p-value for a pair oof distance distribution samples using the chi2 test statistic.')
+parser = argparse.ArgumentParser(description='Compares distance distributions used for the Energy Test by using the Chi2 test.')
 
 #file1 = str(sys.argv[1])
 #file2 = str(sys.argv[2])
@@ -16,23 +18,30 @@ parser = argparse.ArgumentParser(description='Obtains the p-value for a pair oof
 
 parser.add_argument('file1', help='Name of first sample file')
 parser.add_argument('file2', help='Name of second sample file')
-parser.add_argument('--nbins', dest='nbins', default=10, help='Number of bins to use for the chi2 test')
-parser.add_argument('--npermutations', dest='npermutations', default=1, help='Number of permutations. Keep in mind this is very time-intensive.')
-parser.add_argument('--show_plots', dest='show_plots', default='False')
-parser.add_argument('--run_nominal', dest='run_nominal', default='False')
+#parser.add_argument('distsize', help='Number of distances to subsample for each test. Since the total number of distances is huge, this is a faster way to it without using all distances (order of 10e10 distances for 10e5 events.)')
+parser.add_argument('npermutations', help='Number of permutations.`')
+parser.add_argument('nbins', help='Number of chi2, NOT HISTOGRAM, bins.`')
+parser.add_argument('outfile', help='name of file to write output KS permutation distribution to.')
+parser.add_argument('--show_plots', dest='featuretrue', action='store_true')
+#parser.add_argument('--numbins', dest='numbins', default=50)
+parser.set_defaults(featuretrue=False)
+
 
 args = parser.parse_args()
 file1 = args.file1
 file2 = args.file2
+nbins = int(args.nbins)
+#distsize = int(args.distsize)
 npermutations = int(args.npermutations)
-show_plots = args.show_plots
-nbins = int(args.nbins) 
-run_nominal = args.run_nominal
+#show_plots = args.show_plots
+featuretrue = args.featuretrue
+#numbins = int(args.numbins) 
+outfile = args.outfile
 
+
+#print('Using a subsampled size of ' + str(distsize) + ' from the distance distribution')
 
 matplotlib.pyplot.rcParams['agg.path.chunksize'] = 20000
-
-print('WARNING: this assumes that your sample sizes are equal. If they are not, manually introduce an alpha scaling factor in the chi2test() function.')
 
 
 def open_files(file1, file2): 
@@ -42,7 +51,7 @@ def open_files(file1, file2):
     m12, m13, and m23. 
     '''
     
-    print('Reading ' + file1 + ' as file1 and ' + file2 + ' as file2.')
+    #print('Reading ' + file1 + ' as file1 and ' + file2 + ' as file2.')
 
     with open(file1) as file1:
         lines = file1.readlines()
@@ -67,7 +76,7 @@ def open_files(file1, file2):
     s2m23 = [float(i) for i in s2m23]
     s2 = np.column_stack((s2m12, s2m13, s2m23))
 
-    print('Finished reading files.')
+    #print('Finished reading files.')
 
     return s1, s2
 
@@ -87,93 +96,33 @@ def get_permuted_samples(s1, s2):
     s2out = s12[len(s1):len(s12)]
 
     return s1out, s2out
+
+
+
+def chi2test(s1, s2, nbins):
     
-
-
-def calculate_distance(v1, v2): 
-
-    a = v1[0] - v2[0]
-    b = v1[1] - v2[1]
-    c = v1[2] - v2[2]
-
-    dij = np.sqrt(a**2 + b**2 + c**2)
-
-    return dij
-
-
-def get_distances(sample): 
-    '''
-    Gets array of distances for the given sample. 
-    input: sample is an array, from which to get distances from (in this case s1/s2) 
-    the number of unique distances within the sample is S*(S-1)/2, or S Choose 2. For 50k event samples, this is on the order of 10e9 (will probably crash)
-    '''
-    distances = []
-    
-    start=time.time()
-
-        #indexes = np.random.choice(len(sample), 2, replace=False) # <-- SO SLOW
-        #indexes = [i, i + 1]
-        #L = len(sample)
-        #indexes = np.random.randint(0, L, size=2) # <-- MUCH FASTER (>10x)
-        #while indexes[0] == indexes[1]: 
-        #    indexes = np.random.randint(0, L, size=2)
-
-    for j in range(len(sample)): 
-
-        #if j % 100 == 0: 
-            #print('outer loop reached event' + str(j))
-            
-        for k in range(j+1,len(sample)): 
-    
-            v1 = sample[j]
-            v2 = sample[k]
-
-            distance = calculate_distance(v1, v2)
-
-            distances.append(distance)
-
-    end=time.time()
-    #print('Finished getting distances in one sample. That took ' + str(end-start) + ' seconds.')
-    #print('the number of distances is ' + str(len(distances)))
-
-    return distances
-
-
-def chi2test(s1, s2, nbins, nominal):    
-    
-    if nominal == True: 
-        pass
-    else:
-        s1, s2 = get_permuted_samples(s1, s2)
-
-    s1distances = get_distances(s1)
-    s2distances = get_distances(s2)
-    
-    inc = np.sqrt(2)/nbins #sqrt2 is the max. distance
+    s1distances, s2distances = distances.get_distances(s1, s2)
 
     Sarray = []
 
-    hS1 = np.histogram(s1distances, bins=nbins, density=False, range=(0,np.sqrt(2)))
-    hS2 = np.histogram(s2distances, bins=nbins, density=False, range=(0,np.sqrt(2)))
+    hs1 = np.histogram(s1distances, bins=nbins, density=False, range=(0,np.sqrt(3)))
+    hs2 = np.histogram(s2distances, bins=nbins, density=False, range=(0,np.sqrt(3)))
 
     for i in range(nbins): 
-        S1 = hS1[0][i]
-        S2 = hS2[0][i]
+        S1 = hs1[0][i]  #gets number of entries in the ith bin
+        S2 = hs2[0][i]
 
-        #print('reached ' + str(i) + ' with value ' + str(S1) + ' and ' + str(S2))
-
-        if S1 == 0 and S2 == 0:
+        if S1 == 0 and S2 == 0: 
             pass
-        else:
+        else: 
             S = ((S1-S2)**2)/(S1+S2)
             Sarray.append(S)
 
     statistic = sum(Sarray)
 
-    #print('the p value from the K-S 2 sample test is ' + str(p))
-    #print('the K-S test statistic is ' + str(ks))
+    return statistic 
 
-    return statistic
+
 
 
 # Function definitions end here
@@ -182,25 +131,29 @@ def chi2test(s1, s2, nbins, nominal):
 
 s1, s2 = open_files(file1, file2)
 
-chi2list = []
+chi2values = []
 
-print('Running the chi2 test with ' + str(npermutations) + ' permutations.')
+chi2valuenominal = chi2test(s1, s2, nbins)
 
-if run_nominal == 'True': 
-    nominalchi2 = chi2test(s1, s2, nbins, nominal=True)
-    print('The nominal chi2 value is ' + str(nominalchi2))
+s1distances, s2distances = distances.get_distances(s1, s2)
 
+#ksvaluenominal=5
+print('\n >>> the nominal chi2 value is ' + str(chi2valuenominal) + ' <<< \n')
+
+print('Running the Chi2 test ' + str(npermutations) + ' time(s)') 
 
 for i in range(npermutations): 
 
-    if i % 20 == 0: 
-        print('Reached test #' + str(i))
+    if i % 50 == 0: 
+        print('Reached permutation #' + str(i))
 
-    chi2value = chi2test(s1, s2, nbins, nominal=False)
-
-    #print('the chi2 value is ' + str(ksvalue))
+    s1, s2 = get_permuted_samples(s1, s2)
     
-    chi2list.append(chi2value)
+    chi2value = chi2test(s1, s2, nbins)
+
+    #print('the ks value is ' + str(ksvalue))
+    
+    chi2values.append(chi2value)
 
 #print('The ks value is ' + str(sum(ksvalues)/len(ksvalues)))
 
@@ -208,20 +161,30 @@ for i in range(npermutations):
 #plt.hist(ksvalues, bins=25)
 #plt.show()
 
-chi2list = np.array(chi2list)
+chi2values = np.array(chi2values)
 
-np.savetxt('chi2permuted_'+str(nbins)+'bins.txt', chi2list, delimiter=' ')
-print('Files successfully saved.')
+j=0
+for i in chi2values: 
+    if i > chi2valuenominal: 
+        j=j+1
 
-if show_plots in ['True', 'y', '1']: 
+if len(chi2values) != 0:
+    pvalue = j/len(chi2values)
+else: 
+    pvalue = 'NaN'
+
+np.savetxt(outfile, chi2values, delimiter=' ', header=str(chi2valuenominal)+' p='+str(pvalue) )
+print('Script Ended. Files successfully saved.')
+
+if featuretrue == True: 
     plt.figure()
 
     plt.subplot(1,2,1)
-    plt.hist(s1distances, bins=numbins, log=False)
+    plt.hist(s1distances, bins=nbins, log=False, alpha=0.7)
     plt.title('sample1 distance distribution')
 
     plt.subplot(1,2,2)
-    plt.hist(s2distances, bins=numbins, log=False)
+    plt.hist(s2distances, bins=nbins, log=False, alpha=0.7)
     plt.title('sample2 distance distribution')
 
     plt.show()

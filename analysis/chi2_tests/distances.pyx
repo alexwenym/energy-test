@@ -27,11 +27,11 @@ def calculate_distance(double v1, double v2, double v3, double u1, double u2, do
 
     #d = np.sqrt(dij.dot(dij))
 
-    d = (a*a + b*b + c*c)
+    d = (a*a + b*b + c*c)**0.5
 
-    psi = exp(- d / 0.6**2)
+    #psi = exp(- d / 0.6**2)
 
-    return psi
+    return d
 
 
 def get_distances(np.ndarray[DTYPE_t, ndim=2] s1, np.ndarray[DTYPE_t, ndim=2] s2): 
