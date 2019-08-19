@@ -1,0 +1,68 @@
+nohup: ignoring input
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/36      5 April 2016   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/36 (v5-34-36@v5-34-36, Apr 05 2016, 10:25:45 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+
+Processing breakdown_test.cc+("../../data/s2_low.txt", "../../data/s1_low.txt",10,100000,0.06)...
+Read 2000 events from file 1
+Read 2000 events from file 2
+The delta metric is 0.06
+The number of bins is 10
+The nominal test statistic is 2.77132e+06
+The p-value is 0.02292
+Finished!
+(Int_t)1729
+
+Processing breakdown_test.cc+("../../data/s2_low.txt", "../../data/s1_low.txt",25,100000,0.06)...
+Read 2000 events from file 1
+Read 2000 events from file 2
+The delta metric is 0.06
+The number of bins is 25
+The nominal test statistic is 4.99759e+06
+The p-value is 0.01226
+Finished!
+(Int_t)1729
+
+Processing breakdown_test.cc+("../../data/s2_low.txt", "../../data/s1_low.txt",50,100000,0.06)...
+Read 2000 events from file 1
+Read 2000 events from file 2
+The delta metric is 0.06
+The number of bins is 50
+The nominal test statistic is 4.78229e+06
+The p-value is 0.03237
+Finished!
+(Int_t)1729
+
+Processing breakdown_test.cc+("../../data/s2_low.txt", "../../data/s1_low.txt",100,100000,0.06)...
+Info in <TUnixSystem::ACLiC>: creating shared library /home/hep/ayw19/energy-test/runsC/sum_chi2/./breakdown_test_cc.so
+Read 2000 events from file 1
+Read 2000 events from file 2
+The delta metric is 0.06
+The number of bins is 100
+The nominal test statistic is 4.47983e+06
+The p-value is 0.06859
+Finished!
+(Int_t)1729
+
+Processing breakdown_test.cc+("../../data/s2_low.txt", "../../data/s1_low.txt",200,100000,0.06)...
+Read 2000 events from file 1
+Read 2000 events from file 2
+The delta metric is 0.06
+The number of bins is 200
+The nominal test statistic is 3.79299e+06
+The p-value is 0.14842
+Finished!
+(Int_t)1729

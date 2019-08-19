@@ -1,0 +1,45 @@
+nohup: ignoring input
+Running in exact mode
+Distance parameter set to 0.1
+Dataset 1 size is 50000
+Dataset 2 size is 50000
+
+Calculating test statistic for nominal dataset:
+    dist_11 = 0.0478765
+    dist_22 = 0.0473677
+    dist_12 = 0.0952206
+  T = 2.35796e-05
+
+Running 10000 permutations of 50000 and 50000 events using seed 5489
+Calculating permutation 100 of 10000
+Calculating permutation 200 of 10000
+Calculating permutation 300 of 10000
+Calculating permutation 400 of 10000
+Calculating permutation 500 of 10000
+Calculating permutation 600 of 10000
+Calculating permutation 700 of 10000
+Calculating permutation 800 of 10000
+Calculating permutation 900 of 10000
+Calculating permutation 1000 of 10000
+Calculating permutation 1100 of 10000
+Calculating permutation 1200 of 10000
+Calculating permutation 1300 of 10000
+Calculating permutation 1400 of 10000
+Calculating permutation 1500 of 10000
+Calculating permutation 1600 of 10000
+Calculating permutation 1700 of 10000
+Calculating permutation 1800 of 10000
+Calculating permutation 1900 of 10000
+Calculating permutation 2000 of 10000
+Calculating permutation 2100 of 10000
+Calculating permutation 2200 of 10000
+Calculating permutation 2300 of 10000
+Calculating permutation 2400 of 10000
+Calculating permutation 2500 of 10000
+Calculating permutation 2600 of 10000
+Calculating permutation 2700 of 10000
+Calculating permutation 2800 of 10000
+Calculating permutation 2900 of 10000
+Calculating permutation 3000 of 10000
+Calculating permutation 3100 of 10000
+Calculating permutation 3200 of 10000

@@ -1,0 +1,32 @@
+nohup: ignoring input
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/36      5 April 2016   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/36 (v5-34-36@v5-34-36, Apr 05 2016, 10:25:45 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+
+Processing mean_comparison.cc+("../data/nominal_data/sample1_50k.txt", "../data/nominal_data/sample2_50k.txt", 150, 5000, 0.06)...
+Info in <TUnixSystem::ACLiC>: creating shared library /home/hep/ayw19/energy-test/plotting/./mean_comparison_cc.so
+Read 50000 events from file 1
+Read 50000 events from file 2
+The number of bins is 150
+Using euclidean metric.
+Starting permutation test of means
+50000 and 50000
+The nominal mean 1 is: 0.431935
+The nominal mean 2 is: 0.434932
+The nominal T test statistic is: 335.084
+Starting 5000 permutations.
+Reached permutation # 0
+Reached permutation # 500

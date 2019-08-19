@@ -1,0 +1,26 @@
+nohup: ignoring input
+Running in exact mode
+Distance parameter set to 0.2
+Dataset 1 size is 50000
+Dataset 2 size is 50000
+
+Calculating test statistic for nominal dataset:
+    dist_11 mean = 0.257334
+    dist_11 stdev = 0.304487
+    dist_11 skewness = 1.05785
+    dist_11 kurtosis = -0.232055
+    dist_22 mean = 0.254494
+    dist_22 stdev = 0.303844
+    dist_22 skewness = 1.07596
+    dist_22 kurtosis = -0.191177
+        1st moment contribution: 4.36007e-05
+        2nd moment contribution: 4.4764e-06
+        3rd moment contribution: 2.73566e-05
+        4th moment contribution: 3.48134e-05
+    test statistic (T) is 0.000110247
+    T = 0.000110247
+
+Running 200 permutations of 50000 and 50000 events using seed 5489
+Calculating permutation 100 of 200
+Calculating permutation 200 of 200
+p value is: 0.015

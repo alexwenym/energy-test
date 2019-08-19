@@ -1,0 +1,52 @@
+nohup: ignoring input
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/36      5 April 2016   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/36 (v5-34-36@v5-34-36, Apr 05 2016, 10:25:45 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+
+Processing ksbtest_cross_terms.cc+("../data/s2_low.txt", "../data/s1_low.txt",100,100000,0.3)...
+Info in <TUnixSystem::ACLiC>: creating shared library /home/hep/ayw19/energy-test/runsB/./ksbtest_cross_terms_cc.so
+Read 2000 events from file 1
+Read 2000 events from file 2
+The delta metric is 0.3
+The number of bins is 100
+3.998e+06
+4e+06
+the nominal KS value is 0.000333985
+ 
+Starting 100000 permutations.
+Reached permutation # 0
+Reached permutation # 5000
+Reached permutation # 10000
+Reached permutation # 15000
+Reached permutation # 20000
+Reached permutation # 25000
+Reached permutation # 30000
+Reached permutation # 35000
+Reached permutation # 40000
+Reached permutation # 45000
+Reached permutation # 50000
+Reached permutation # 55000
+Reached permutation # 60000
+Reached permutation # 65000
+Reached permutation # 70000
+Reached permutation # 75000
+Reached permutation # 80000
+Reached permutation # 85000
+Reached permutation # 90000
+Reached permutation # 95000
+The p-value is 0.83927
+Finished!
+(Int_t)1729

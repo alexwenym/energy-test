@@ -1,0 +1,21 @@
+nohup: ignoring input
+Running in exact mode
+Distance parameter set to 0.5
+Dataset 1 size is 50000
+Dataset 2 size is 50000
+
+Calculating test statistic for nominal dataset:
+    dist_11 = 8.57195e+08
+    dist_22 = 8.62253e+08
+    difference in counts (T) is 5.0578e+06
+    T = 5.0578e+06
+
+Running 300 permutations of 50000 and 50000 events using seed 5489
+BOOM!
+Calculating permutation 100 of 300
+BOOM!
+BOOM!
+Calculating permutation 200 of 300
+BOOM!
+Calculating permutation 300 of 300
+p value is: 0.0133333

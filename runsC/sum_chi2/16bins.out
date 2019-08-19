@@ -1,0 +1,127 @@
+nohup: ignoring input
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/36      5 April 2016   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/36 (v5-34-36@v5-34-36, Apr 05 2016, 10:25:45 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+
+Processing breakdown_test.cc+("../../data/s2_low.txt", "../../data/s1_low.txt",16,100000,0.06)...
+Read 2000 events from file 1
+Read 2000 events from file 2
+The delta metric is 0.06
+The number of bins is 16
+The nominal test statistic is 4.00134e+06
+Reached permutation # 0
+Reached permutation # 1000
+Reached permutation # 2000
+Reached permutation # 3000
+Reached permutation # 4000
+Reached permutation # 5000
+Reached permutation # 6000
+Reached permutation # 7000
+Reached permutation # 8000
+Reached permutation # 9000
+Reached permutation # 10000
+Reached permutation # 11000
+Reached permutation # 12000
+Reached permutation # 13000
+Reached permutation # 14000
+Reached permutation # 15000
+Reached permutation # 16000
+Reached permutation # 17000
+Reached permutation # 18000
+Reached permutation # 19000
+Reached permutation # 20000
+Reached permutation # 21000
+Reached permutation # 22000
+Reached permutation # 23000
+Reached permutation # 24000
+Reached permutation # 25000
+Reached permutation # 26000
+Reached permutation # 27000
+Reached permutation # 28000
+Reached permutation # 29000
+Reached permutation # 30000
+Reached permutation # 31000
+Reached permutation # 32000
+Reached permutation # 33000
+Reached permutation # 34000
+Reached permutation # 35000
+Reached permutation # 36000
+Reached permutation # 37000
+Reached permutation # 38000
+Reached permutation # 39000
+Reached permutation # 40000
+Reached permutation # 41000
+Reached permutation # 42000
+Reached permutation # 43000
+Reached permutation # 44000
+Reached permutation # 45000
+Reached permutation # 46000
+Reached permutation # 47000
+Reached permutation # 48000
+Reached permutation # 49000
+Reached permutation # 50000
+Reached permutation # 51000
+Reached permutation # 52000
+Reached permutation # 53000
+Reached permutation # 54000
+Reached permutation # 55000
+Reached permutation # 56000
+Reached permutation # 57000
+Reached permutation # 58000
+Reached permutation # 59000
+Reached permutation # 60000
+Reached permutation # 61000
+Reached permutation # 62000
+Reached permutation # 63000
+Reached permutation # 64000
+Reached permutation # 65000
+Reached permutation # 66000
+Reached permutation # 67000
+Reached permutation # 68000
+Reached permutation # 69000
+Reached permutation # 70000
+Reached permutation # 71000
+Reached permutation # 72000
+Reached permutation # 73000
+Reached permutation # 74000
+Reached permutation # 75000
+Reached permutation # 76000
+Reached permutation # 77000
+Reached permutation # 78000
+Reached permutation # 79000
+Reached permutation # 80000
+Reached permutation # 81000
+Reached permutation # 82000
+Reached permutation # 83000
+Reached permutation # 84000
+Reached permutation # 85000
+Reached permutation # 86000
+Reached permutation # 87000
+Reached permutation # 88000
+Reached permutation # 89000
+Reached permutation # 90000
+Reached permutation # 91000
+Reached permutation # 92000
+Reached permutation # 93000
+Reached permutation # 94000
+Reached permutation # 95000
+Reached permutation # 96000
+Reached permutation # 97000
+Reached permutation # 98000
+Reached permutation # 99000
+The p-value is 0.01397
+Finished!
+(Int_t)1729

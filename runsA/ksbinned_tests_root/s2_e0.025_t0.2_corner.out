@@ -1,0 +1,32 @@
+nohup: ignoring input
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/36      5 April 2016   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/36 (v5-34-36@v5-34-36, Apr 05 2016, 10:25:45 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+
+Processing generate_ksbtest.cc+("../../data/variable_location_tightness/s1_low.txt", "../../data/variable_location_tightness/s2_e0.025_t0.2_corner.txt", 100, 10000, 0.031)...
+Info in <TUnixSystem::ACLiC>: creating shared library /home/hep/ayw19/energy-test/runsA/ksbinned_tests_root/./generate_ksbtest_cc.so
+Read 2000 events from file 1
+Read 2000 events from file 2
+The delta metric is 0.031
+The number of bins is 100
+the nominal KS value is 0.000227614
+ 
+Starting 10000 permutations.
+Reached permutation # 0
+Reached permutation # 5000
+The p-value is 0.0027
+Finished!
+(Int_t)1729

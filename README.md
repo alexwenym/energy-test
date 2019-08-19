@@ -57,3 +57,22 @@ Run the energy test with permutations for 10000 points from sample 1 and 11000 p
 ```bash
 time ./energy_test --max-events-1=10000 --max-events-2=11000 --n-permutations=100 sample1.csv sample2.csv
 ```
+
+
+# Further Analysis 
+
+To understand and improve upon the energy test, further tests are done. Fundamentally, the energy test consists of a few steps: finding the distances between all the points in each sample as well as across both samples, and then collapsing th sum of these distances into a test statistic T. It is unknown where the performance comes from specifically. 
+
+The goal is to test if we can achieve a comparable level of sensitivity at each step of the process. If so, we have a good idea of where the power of the energy test originates. 
+
+## Runs A
+
+This is fundamentally concerned with the simple distance distributions of each sample; it introduces a few ways of comparing the distance distributions of the two samples (no cross terms - think of the first two terms in the energy test) to see if any statistical significance can be found. The distance we are concerned with is the euclidean distance in the dalitz space - we do not yet use a metric function. 
+
+## Runs B 
+
+This is more gearing towards the energy test - it compares the distance distributions of the first two terms against the distribution of the third term.
+
+## Runs C 
+
+This is essentially applying the energy test, but instead of calculating a single T value for each permutation, we find the T value for each bin, of which each permutation has a certain number of. 
