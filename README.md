@@ -71,8 +71,26 @@ This is fundamentally concerned with the simple distance distributions of each s
 
 ## Runs B 
 
-This is more gearing towards the energy test - it compares the distance distributions of the first two terms against the distribution of the third term.
+This is more gearing towards the energy test - it compares the sum of the distance distributions of the first two terms against the distribution of the third term. There are certain runs which are promising. 
 
 ## Runs C 
 
-This is essentially applying the energy test, but instead of calculating a single T value for each permutation, we find the T value for each bin, of which each permutation has a certain number of. 
+This is essentially applying the energy test, but instead of calculating a single T value for each permutation, we find the T value for each bin, of which each permutation has a certain number of. We then run a chi2 test on the entire resulting distribution against a null hypothesis of a flat function at 0. This method is not shown to be particularly effective, and should only be revisited if significant changes are made. 
+
+## Variants 
+
+Runs A-C were primarily testing with smaller data samples using python and ROOT scripts. The variants folder contains several most promising tests, each with a modified copy of the original multiprocess energy-test application for more efficient computation on large datasets on the order of 50k events. 
+
+### energy-test-deltamean & energy-test-deltamean-cross 
+
+Designed to compare the difference in means between the matter and antimatter distance distributions as the test statistic. The cross version does the same thing but compares the means of the sum of the matter and antimatter distance distributions against the 'cross' distribution represented by the third term in the energy test. 
+
+### energy-test-higherorder & energy-test-higherorder-cross
+
+Like deltamean, except this variant also introduces, at a cost of greater computational demand, the ability to also compare the standard deviation, RMS, skewness, and kurtosis in addition to the mean. The cross version is the same idea as 'cross' above. 
+
+### energy-test-cut & energy-test-cut-cross 
+
+Instead of taking a delta parameter as input, this version takes a cut as an input and makes this cut on the euclidean distance distributions of the matter and antimatter plots. The test statistic is the difference in counts on one side of the cut between the two distributions. It does not matter which side of the cut is counted since the normalied samples should have the same difference on either side of the cut. The cross term refers to the same idea as above. 
+
+In a way this method is a simplified version of applying the distance metric, and then counting up the numbers in a very specific bin. 
