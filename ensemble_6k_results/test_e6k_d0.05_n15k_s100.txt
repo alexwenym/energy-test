@@ -1,0 +1,114 @@
+nohup: ignoring input
+Running in exact mode
+Distance parameter set to 0.05
+Dataset 1 size is 6000
+Dataset 2 size is 6000
+
+Calculating test statistic for nominal dataset:
+    dist_11 = 0.0164765
+    dist_22 = 0.0163224
+    dist_12 = 0.0327411
+  T = 5.77216e-05
+
+Running 15000 permutations of 100 and 100 events using seed 5489
+Calculating permutation 150 of 15000
+Calculating permutation 300 of 15000
+Calculating permutation 450 of 15000
+Calculating permutation 600 of 15000
+Calculating permutation 750 of 15000
+Calculating permutation 900 of 15000
+Calculating permutation 1050 of 15000
+Calculating permutation 1200 of 15000
+Calculating permutation 1350 of 15000
+Calculating permutation 1500 of 15000
+Calculating permutation 1650 of 15000
+Calculating permutation 1800 of 15000
+Calculating permutation 1950 of 15000
+Calculating permutation 2100 of 15000
+Calculating permutation 2250 of 15000
+Calculating permutation 2400 of 15000
+Calculating permutation 2550 of 15000
+Calculating permutation 2700 of 15000
+Calculating permutation 2850 of 15000
+Calculating permutation 3000 of 15000
+Calculating permutation 3150 of 15000
+Calculating permutation 3300 of 15000
+Calculating permutation 3450 of 15000
+Calculating permutation 3600 of 15000
+Calculating permutation 3750 of 15000
+Calculating permutation 3900 of 15000
+Calculating permutation 4050 of 15000
+Calculating permutation 4200 of 15000
+Calculating permutation 4350 of 15000
+Calculating permutation 4500 of 15000
+Calculating permutation 4650 of 15000
+Calculating permutation 4800 of 15000
+Calculating permutation 4950 of 15000
+Calculating permutation 5100 of 15000
+Calculating permutation 5250 of 15000
+Calculating permutation 5400 of 15000
+Calculating permutation 5550 of 15000
+Calculating permutation 5700 of 15000
+Calculating permutation 5850 of 15000
+Calculating permutation 6000 of 15000
+Calculating permutation 6150 of 15000
+Calculating permutation 6300 of 15000
+Calculating permutation 6450 of 15000
+Calculating permutation 6600 of 15000
+Calculating permutation 6750 of 15000
+Calculating permutation 6900 of 15000
+Calculating permutation 7050 of 15000
+Calculating permutation 7200 of 15000
+Calculating permutation 7350 of 15000
+Calculating permutation 7500 of 15000
+Calculating permutation 7650 of 15000
+Calculating permutation 7800 of 15000
+Calculating permutation 7950 of 15000
+Calculating permutation 8100 of 15000
+Calculating permutation 8250 of 15000
+Calculating permutation 8400 of 15000
+Calculating permutation 8550 of 15000
+Calculating permutation 8700 of 15000
+Calculating permutation 8850 of 15000
+Calculating permutation 9000 of 15000
+Calculating permutation 9150 of 15000
+Calculating permutation 9300 of 15000
+Calculating permutation 9450 of 15000
+Calculating permutation 9600 of 15000
+Calculating permutation 9750 of 15000
+Calculating permutation 9900 of 15000
+Calculating permutation 10050 of 15000
+Calculating permutation 10200 of 15000
+Calculating permutation 10350 of 15000
+Calculating permutation 10500 of 15000
+Calculating permutation 10650 of 15000
+Calculating permutation 10800 of 15000
+Calculating permutation 10950 of 15000
+Calculating permutation 11100 of 15000
+Calculating permutation 11250 of 15000
+Calculating permutation 11400 of 15000
+Calculating permutation 11550 of 15000
+Calculating permutation 11700 of 15000
+Calculating permutation 11850 of 15000
+Calculating permutation 12000 of 15000
+Calculating permutation 12150 of 15000
+Calculating permutation 12300 of 15000
+Calculating permutation 12450 of 15000
+Calculating permutation 12600 of 15000
+Calculating permutation 12750 of 15000
+Calculating permutation 12900 of 15000
+Calculating permutation 13050 of 15000
+Calculating permutation 13200 of 15000
+Calculating permutation 13350 of 15000
+Calculating permutation 13500 of 15000
+Calculating permutation 13650 of 15000
+Calculating permutation 13800 of 15000
+Calculating permutation 13950 of 15000
+Calculating permutation 14100 of 15000
+Calculating permutation 14250 of 15000
+Calculating permutation 14400 of 15000
+Calculating permutation 14550 of 15000
+Calculating permutation 14700 of 15000
+Calculating permutation 14850 of 15000
+Calculating permutation 15000 of 15000
+p value is: 0.0448667

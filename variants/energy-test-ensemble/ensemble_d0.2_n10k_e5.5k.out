@@ -1,0 +1,1766 @@
+nohup: ignoring input
+
+ 
+Running on ensemble 0 of 100
+Running in exact mode
+Distance parameter set to 0.2
+Dataset 1 size is 5500
+Dataset 2 size is 5500
+
+Calculating test statistic for nominal dataset:
+    dist_11 = 0.13259
+    dist_22 = 0.129355
+    dist_12 = 0.26171
+  T = 0.000235467
+
+Running 10000 permutations of 100 and 100 events using seed 5489
+Calculating permutation 100 of 10000
+Calculating permutation 200 of 10000
+Calculating permutation 300 of 10000
+Calculating permutation 400 of 10000
+Calculating permutation 500 of 10000
+Calculating permutation 600 of 10000
+Calculating permutation 700 of 10000
+Calculating permutation 800 of 10000
+Calculating permutation 900 of 10000
+Calculating permutation 1000 of 10000
+Calculating permutation 1100 of 10000
+Calculating permutation 1200 of 10000
+Calculating permutation 1300 of 10000
+Calculating permutation 1400 of 10000
+Calculating permutation 1500 of 10000
+Calculating permutation 1600 of 10000
+Calculating permutation 1700 of 10000
+Calculating permutation 1800 of 10000
+Calculating permutation 1900 of 10000
+Calculating permutation 2000 of 10000
+Calculating permutation 2100 of 10000
+Calculating permutation 2200 of 10000
+Calculating permutation 2300 of 10000
+Calculating permutation 2400 of 10000
+Calculating permutation 2500 of 10000
+Calculating permutation 2600 of 10000
+Calculating permutation 2700 of 10000
+Calculating permutation 2800 of 10000
+Calculating permutation 2900 of 10000
+Calculating permutation 3000 of 10000
+Calculating permutation 3100 of 10000
+Calculating permutation 3200 of 10000
+Calculating permutation 3300 of 10000
+Calculating permutation 3400 of 10000
+Calculating permutation 3500 of 10000
+Calculating permutation 3600 of 10000
+Calculating permutation 3700 of 10000
+Calculating permutation 3800 of 10000
+Calculating permutation 3900 of 10000
+Calculating permutation 4000 of 10000
+Calculating permutation 4100 of 10000
+Calculating permutation 4200 of 10000
+Calculating permutation 4300 of 10000
+Calculating permutation 4400 of 10000
+Calculating permutation 4500 of 10000
+Calculating permutation 4600 of 10000
+Calculating permutation 4700 of 10000
+Calculating permutation 4800 of 10000
+Calculating permutation 4900 of 10000
+Calculating permutation 5000 of 10000
+Calculating permutation 5100 of 10000
+Calculating permutation 5200 of 10000
+Calculating permutation 5300 of 10000
+Calculating permutation 5400 of 10000
+Calculating permutation 5500 of 10000
+Calculating permutation 5600 of 10000
+Calculating permutation 5700 of 10000
+Calculating permutation 5800 of 10000
+Calculating permutation 5900 of 10000
+Calculating permutation 6000 of 10000
+Calculating permutation 6100 of 10000
+Calculating permutation 6200 of 10000
+Calculating permutation 6300 of 10000
+Calculating permutation 6400 of 10000
+Calculating permutation 6500 of 10000
+Calculating permutation 6600 of 10000
+Calculating permutation 6700 of 10000
+Calculating permutation 6800 of 10000
+Calculating permutation 6900 of 10000
+Calculating permutation 7000 of 10000
+Calculating permutation 7100 of 10000
+Calculating permutation 7200 of 10000
+Calculating permutation 7300 of 10000
+Calculating permutation 7400 of 10000
+Calculating permutation 7500 of 10000
+Calculating permutation 7600 of 10000
+Calculating permutation 7700 of 10000
+Calculating permutation 7800 of 10000
+Calculating permutation 7900 of 10000
+Calculating permutation 8000 of 10000
+Calculating permutation 8100 of 10000
+Calculating permutation 8200 of 10000
+Calculating permutation 8300 of 10000
+Calculating permutation 8400 of 10000
+Calculating permutation 8500 of 10000
+Calculating permutation 8600 of 10000
+Calculating permutation 8700 of 10000
+Calculating permutation 8800 of 10000
+Calculating permutation 8900 of 10000
+Calculating permutation 9000 of 10000
+Calculating permutation 9100 of 10000
+Calculating permutation 9200 of 10000
+Calculating permutation 9300 of 10000
+Calculating permutation 9400 of 10000
+Calculating permutation 9500 of 10000
+Calculating permutation 9600 of 10000
+Calculating permutation 9700 of 10000
+Calculating permutation 9800 of 10000
+Calculating permutation 9900 of 10000
+Calculating permutation 10000 of 10000
+p value is: 0.0122
+
+ 
+Running on ensemble 1 of 100
+Running in exact mode
+Distance parameter set to 0.2
+Dataset 1 size is 5500
+Dataset 2 size is 5500
+
+Calculating test statistic for nominal dataset:
+    dist_11 = 0.13194
+    dist_22 = 0.127734
+    dist_12 = 0.258999
+  T = 0.000675639
+
+Running 10000 permutations of 100 and 100 events using seed 5489
+Calculating permutation 100 of 10000
+Calculating permutation 200 of 10000
+Calculating permutation 300 of 10000
+Calculating permutation 400 of 10000
+Calculating permutation 500 of 10000
+Calculating permutation 600 of 10000
+Calculating permutation 700 of 10000
+Calculating permutation 800 of 10000
+Calculating permutation 900 of 10000
+Calculating permutation 1000 of 10000
+Calculating permutation 1100 of 10000
+Calculating permutation 1200 of 10000
+Calculating permutation 1300 of 10000
+Calculating permutation 1400 of 10000
+Calculating permutation 1500 of 10000
+Calculating permutation 1600 of 10000
+Calculating permutation 1700 of 10000
+Calculating permutation 1800 of 10000
+Calculating permutation 1900 of 10000
+Calculating permutation 2000 of 10000
+Calculating permutation 2100 of 10000
+Calculating permutation 2200 of 10000
+Calculating permutation 2300 of 10000
+Calculating permutation 2400 of 10000
+Calculating permutation 2500 of 10000
+Calculating permutation 2600 of 10000
+Calculating permutation 2700 of 10000
+Calculating permutation 2800 of 10000
+Calculating permutation 2900 of 10000
+Calculating permutation 3000 of 10000
+Calculating permutation 3100 of 10000
+Calculating permutation 3200 of 10000
+Calculating permutation 3300 of 10000
+Calculating permutation 3400 of 10000
+Calculating permutation 3500 of 10000
+Calculating permutation 3600 of 10000
+Calculating permutation 3700 of 10000
+Calculating permutation 3800 of 10000
+Calculating permutation 3900 of 10000
+Calculating permutation 4000 of 10000
+Calculating permutation 4100 of 10000
+Calculating permutation 4200 of 10000
+Calculating permutation 4300 of 10000
+Calculating permutation 4400 of 10000
+Calculating permutation 4500 of 10000
+Calculating permutation 4600 of 10000
+Calculating permutation 4700 of 10000
+Calculating permutation 4800 of 10000
+Calculating permutation 4900 of 10000
+Calculating permutation 5000 of 10000
+Calculating permutation 5100 of 10000
+Calculating permutation 5200 of 10000
+Calculating permutation 5300 of 10000
+Calculating permutation 5400 of 10000
+Calculating permutation 5500 of 10000
+Calculating permutation 5600 of 10000
+Calculating permutation 5700 of 10000
+Calculating permutation 5800 of 10000
+Calculating permutation 5900 of 10000
+Calculating permutation 6000 of 10000
+Calculating permutation 6100 of 10000
+Calculating permutation 6200 of 10000
+Calculating permutation 6300 of 10000
+Calculating permutation 6400 of 10000
+Calculating permutation 6500 of 10000
+Calculating permutation 6600 of 10000
+Calculating permutation 6700 of 10000
+Calculating permutation 6800 of 10000
+Calculating permutation 6900 of 10000
+Calculating permutation 7000 of 10000
+Calculating permutation 7100 of 10000
+Calculating permutation 7200 of 10000
+Calculating permutation 7300 of 10000
+Calculating permutation 7400 of 10000
+Calculating permutation 7500 of 10000
+Calculating permutation 7600 of 10000
+Calculating permutation 7700 of 10000
+Calculating permutation 7800 of 10000
+Calculating permutation 7900 of 10000
+Calculating permutation 8000 of 10000
+Calculating permutation 8100 of 10000
+Calculating permutation 8200 of 10000
+Calculating permutation 8300 of 10000
+Calculating permutation 8400 of 10000
+Calculating permutation 8500 of 10000
+Calculating permutation 8600 of 10000
+Calculating permutation 8700 of 10000
+Calculating permutation 8800 of 10000
+Calculating permutation 8900 of 10000
+Calculating permutation 9000 of 10000
+Calculating permutation 9100 of 10000
+Calculating permutation 9200 of 10000
+Calculating permutation 9300 of 10000
+Calculating permutation 9400 of 10000
+Calculating permutation 9500 of 10000
+Calculating permutation 9600 of 10000
+Calculating permutation 9700 of 10000
+Calculating permutation 9800 of 10000
+Calculating permutation 9900 of 10000
+Calculating permutation 10000 of 10000
+p value is: 0
+
+ 
+Running on ensemble 2 of 100
+Running in exact mode
+Distance parameter set to 0.2
+Dataset 1 size is 5500
+Dataset 2 size is 5500
+
+Calculating test statistic for nominal dataset:
+    dist_11 = 0.132643
+    dist_22 = 0.129148
+    dist_12 = 0.261143
+  T = 0.000648099
+
+Running 10000 permutations of 100 and 100 events using seed 5489
+Calculating permutation 100 of 10000
+Calculating permutation 200 of 10000
+Calculating permutation 300 of 10000
+Calculating permutation 400 of 10000
+Calculating permutation 500 of 10000
+Calculating permutation 600 of 10000
+Calculating permutation 700 of 10000
+Calculating permutation 800 of 10000
+Calculating permutation 900 of 10000
+Calculating permutation 1000 of 10000
+Calculating permutation 1100 of 10000
+Calculating permutation 1200 of 10000
+Calculating permutation 1300 of 10000
+Calculating permutation 1400 of 10000
+Calculating permutation 1500 of 10000
+Calculating permutation 1600 of 10000
+Calculating permutation 1700 of 10000
+Calculating permutation 1800 of 10000
+Calculating permutation 1900 of 10000
+Calculating permutation 2000 of 10000
+Calculating permutation 2100 of 10000
+Calculating permutation 2200 of 10000
+Calculating permutation 2300 of 10000
+Calculating permutation 2400 of 10000
+Calculating permutation 2500 of 10000
+Calculating permutation 2600 of 10000
+Calculating permutation 2700 of 10000
+Calculating permutation 2800 of 10000
+Calculating permutation 2900 of 10000
+Calculating permutation 3000 of 10000
+Calculating permutation 3100 of 10000
+Calculating permutation 3200 of 10000
+Calculating permutation 3300 of 10000
+Calculating permutation 3400 of 10000
+Calculating permutation 3500 of 10000
+Calculating permutation 3600 of 10000
+Calculating permutation 3700 of 10000
+Calculating permutation 3800 of 10000
+Calculating permutation 3900 of 10000
+Calculating permutation 4000 of 10000
+Calculating permutation 4100 of 10000
+Calculating permutation 4200 of 10000
+Calculating permutation 4300 of 10000
+Calculating permutation 4400 of 10000
+Calculating permutation 4500 of 10000
+Calculating permutation 4600 of 10000
+Calculating permutation 4700 of 10000
+Calculating permutation 4800 of 10000
+Calculating permutation 4900 of 10000
+Calculating permutation 5000 of 10000
+Calculating permutation 5100 of 10000
+Calculating permutation 5200 of 10000
+Calculating permutation 5300 of 10000
+Calculating permutation 5400 of 10000
+Calculating permutation 5500 of 10000
+Calculating permutation 5600 of 10000
+Calculating permutation 5700 of 10000
+Calculating permutation 5800 of 10000
+Calculating permutation 5900 of 10000
+Calculating permutation 6000 of 10000
+Calculating permutation 6100 of 10000
+Calculating permutation 6200 of 10000
+Calculating permutation 6300 of 10000
+Calculating permutation 6400 of 10000
+Calculating permutation 6500 of 10000
+Calculating permutation 6600 of 10000
+Calculating permutation 6700 of 10000
+Calculating permutation 6800 of 10000
+Calculating permutation 6900 of 10000
+Calculating permutation 7000 of 10000
+Calculating permutation 7100 of 10000
+Calculating permutation 7200 of 10000
+Calculating permutation 7300 of 10000
+Calculating permutation 7400 of 10000
+Calculating permutation 7500 of 10000
+Calculating permutation 7600 of 10000
+Calculating permutation 7700 of 10000
+Calculating permutation 7800 of 10000
+Calculating permutation 7900 of 10000
+Calculating permutation 8000 of 10000
+Calculating permutation 8100 of 10000
+Calculating permutation 8200 of 10000
+Calculating permutation 8300 of 10000
+Calculating permutation 8400 of 10000
+Calculating permutation 8500 of 10000
+Calculating permutation 8600 of 10000
+Calculating permutation 8700 of 10000
+Calculating permutation 8800 of 10000
+Calculating permutation 8900 of 10000
+Calculating permutation 9000 of 10000
+Calculating permutation 9100 of 10000
+Calculating permutation 9200 of 10000
+Calculating permutation 9300 of 10000
+Calculating permutation 9400 of 10000
+Calculating permutation 9500 of 10000
+Calculating permutation 9600 of 10000
+Calculating permutation 9700 of 10000
+Calculating permutation 9800 of 10000
+Calculating permutation 9900 of 10000
+Calculating permutation 10000 of 10000
+p value is: 0
+
+ 
+Running on ensemble 3 of 100
+Running in exact mode
+Distance parameter set to 0.2
+Dataset 1 size is 5500
+Dataset 2 size is 5500
+
+Calculating test statistic for nominal dataset:
+    dist_11 = 0.131523
+    dist_22 = 0.127833
+    dist_12 = 0.259007
+  T = 0.000348802
+
+Running 10000 permutations of 100 and 100 events using seed 5489
+Calculating permutation 100 of 10000
+Calculating permutation 200 of 10000
+Calculating permutation 300 of 10000
+Calculating permutation 400 of 10000
+Calculating permutation 500 of 10000
+Calculating permutation 600 of 10000
+Calculating permutation 700 of 10000
+Calculating permutation 800 of 10000
+Calculating permutation 900 of 10000
+Calculating permutation 1000 of 10000
+Calculating permutation 1100 of 10000
+Calculating permutation 1200 of 10000
+Calculating permutation 1300 of 10000
+Calculating permutation 1400 of 10000
+Calculating permutation 1500 of 10000
+Calculating permutation 1600 of 10000
+Calculating permutation 1700 of 10000
+Calculating permutation 1800 of 10000
+Calculating permutation 1900 of 10000
+Calculating permutation 2000 of 10000
+Calculating permutation 2100 of 10000
+Calculating permutation 2200 of 10000
+Calculating permutation 2300 of 10000
+Calculating permutation 2400 of 10000
+Calculating permutation 2500 of 10000
+Calculating permutation 2600 of 10000
+Calculating permutation 2700 of 10000
+Calculating permutation 2800 of 10000
+Calculating permutation 2900 of 10000
+Calculating permutation 3000 of 10000
+Calculating permutation 3100 of 10000
+Calculating permutation 3200 of 10000
+Calculating permutation 3300 of 10000
+Calculating permutation 3400 of 10000
+Calculating permutation 3500 of 10000
+Calculating permutation 3600 of 10000
+Calculating permutation 3700 of 10000
+Calculating permutation 3800 of 10000
+Calculating permutation 3900 of 10000
+Calculating permutation 4000 of 10000
+Calculating permutation 4100 of 10000
+Calculating permutation 4200 of 10000
+Calculating permutation 4300 of 10000
+Calculating permutation 4400 of 10000
+Calculating permutation 4500 of 10000
+Calculating permutation 4600 of 10000
+Calculating permutation 4700 of 10000
+Calculating permutation 4800 of 10000
+Calculating permutation 4900 of 10000
+Calculating permutation 5000 of 10000
+Calculating permutation 5100 of 10000
+Calculating permutation 5200 of 10000
+Calculating permutation 5300 of 10000
+Calculating permutation 5400 of 10000
+Calculating permutation 5500 of 10000
+Calculating permutation 5600 of 10000
+Calculating permutation 5700 of 10000
+Calculating permutation 5800 of 10000
+Calculating permutation 5900 of 10000
+Calculating permutation 6000 of 10000
+Calculating permutation 6100 of 10000
+Calculating permutation 6200 of 10000
+Calculating permutation 6300 of 10000
+Calculating permutation 6400 of 10000
+Calculating permutation 6500 of 10000
+Calculating permutation 6600 of 10000
+Calculating permutation 6700 of 10000
+Calculating permutation 6800 of 10000
+Calculating permutation 6900 of 10000
+Calculating permutation 7000 of 10000
+Calculating permutation 7100 of 10000
+Calculating permutation 7200 of 10000
+Calculating permutation 7300 of 10000
+Calculating permutation 7400 of 10000
+Calculating permutation 7500 of 10000
+Calculating permutation 7600 of 10000
+Calculating permutation 7700 of 10000
+Calculating permutation 7800 of 10000
+Calculating permutation 7900 of 10000
+Calculating permutation 8000 of 10000
+Calculating permutation 8100 of 10000
+Calculating permutation 8200 of 10000
+Calculating permutation 8300 of 10000
+Calculating permutation 8400 of 10000
+Calculating permutation 8500 of 10000
+Calculating permutation 8600 of 10000
+Calculating permutation 8700 of 10000
+Calculating permutation 8800 of 10000
+Calculating permutation 8900 of 10000
+Calculating permutation 9000 of 10000
+Calculating permutation 9100 of 10000
+Calculating permutation 9200 of 10000
+Calculating permutation 9300 of 10000
+Calculating permutation 9400 of 10000
+Calculating permutation 9500 of 10000
+Calculating permutation 9600 of 10000
+Calculating permutation 9700 of 10000
+Calculating permutation 9800 of 10000
+Calculating permutation 9900 of 10000
+Calculating permutation 10000 of 10000
+p value is: 0.0019
+
+ 
+Running on ensemble 4 of 100
+Running in exact mode
+Distance parameter set to 0.2
+Dataset 1 size is 5500
+Dataset 2 size is 5500
+
+Calculating test statistic for nominal dataset:
+    dist_11 = 0.134127
+    dist_22 = 0.126482
+    dist_12 = 0.259603
+  T = 0.0010056
+
+Running 10000 permutations of 100 and 100 events using seed 5489
+Calculating permutation 100 of 10000
+Calculating permutation 200 of 10000
+Calculating permutation 300 of 10000
+Calculating permutation 400 of 10000
+Calculating permutation 500 of 10000
+Calculating permutation 600 of 10000
+Calculating permutation 700 of 10000
+Calculating permutation 800 of 10000
+Calculating permutation 900 of 10000
+Calculating permutation 1000 of 10000
+Calculating permutation 1100 of 10000
+Calculating permutation 1200 of 10000
+Calculating permutation 1300 of 10000
+Calculating permutation 1400 of 10000
+Calculating permutation 1500 of 10000
+Calculating permutation 1600 of 10000
+Calculating permutation 1700 of 10000
+Calculating permutation 1800 of 10000
+Calculating permutation 1900 of 10000
+Calculating permutation 2000 of 10000
+Calculating permutation 2100 of 10000
+Calculating permutation 2200 of 10000
+Calculating permutation 2300 of 10000
+Calculating permutation 2400 of 10000
+Calculating permutation 2500 of 10000
+Calculating permutation 2600 of 10000
+Calculating permutation 2700 of 10000
+Calculating permutation 2800 of 10000
+Calculating permutation 2900 of 10000
+Calculating permutation 3000 of 10000
+Calculating permutation 3100 of 10000
+Calculating permutation 3200 of 10000
+Calculating permutation 3300 of 10000
+Calculating permutation 3400 of 10000
+Calculating permutation 3500 of 10000
+Calculating permutation 3600 of 10000
+Calculating permutation 3700 of 10000
+Calculating permutation 3800 of 10000
+Calculating permutation 3900 of 10000
+Calculating permutation 4000 of 10000
+Calculating permutation 4100 of 10000
+Calculating permutation 4200 of 10000
+Calculating permutation 4300 of 10000
+Calculating permutation 4400 of 10000
+Calculating permutation 4500 of 10000
+Calculating permutation 4600 of 10000
+Calculating permutation 4700 of 10000
+Calculating permutation 4800 of 10000
+Calculating permutation 4900 of 10000
+Calculating permutation 5000 of 10000
+Calculating permutation 5100 of 10000
+Calculating permutation 5200 of 10000
+Calculating permutation 5300 of 10000
+Calculating permutation 5400 of 10000
+Calculating permutation 5500 of 10000
+Calculating permutation 5600 of 10000
+Calculating permutation 5700 of 10000
+Calculating permutation 5800 of 10000
+Calculating permutation 5900 of 10000
+Calculating permutation 6000 of 10000
+Calculating permutation 6100 of 10000
+Calculating permutation 6200 of 10000
+Calculating permutation 6300 of 10000
+Calculating permutation 6400 of 10000
+Calculating permutation 6500 of 10000
+Calculating permutation 6600 of 10000
+Calculating permutation 6700 of 10000
+Calculating permutation 6800 of 10000
+Calculating permutation 6900 of 10000
+Calculating permutation 7000 of 10000
+Calculating permutation 7100 of 10000
+Calculating permutation 7200 of 10000
+Calculating permutation 7300 of 10000
+Calculating permutation 7400 of 10000
+Calculating permutation 7500 of 10000
+Calculating permutation 7600 of 10000
+Calculating permutation 7700 of 10000
+Calculating permutation 7800 of 10000
+Calculating permutation 7900 of 10000
+Calculating permutation 8000 of 10000
+Calculating permutation 8100 of 10000
+Calculating permutation 8200 of 10000
+Calculating permutation 8300 of 10000
+Calculating permutation 8400 of 10000
+Calculating permutation 8500 of 10000
+Calculating permutation 8600 of 10000
+Calculating permutation 8700 of 10000
+Calculating permutation 8800 of 10000
+Calculating permutation 8900 of 10000
+Calculating permutation 9000 of 10000
+Calculating permutation 9100 of 10000
+Calculating permutation 9200 of 10000
+Calculating permutation 9300 of 10000
+Calculating permutation 9400 of 10000
+Calculating permutation 9500 of 10000
+Calculating permutation 9600 of 10000
+Calculating permutation 9700 of 10000
+Calculating permutation 9800 of 10000
+Calculating permutation 9900 of 10000
+Calculating permutation 10000 of 10000
+p value is: 0
+
+ 
+Running on ensemble 5 of 100
+Running in exact mode
+Distance parameter set to 0.2
+Dataset 1 size is 5500
+Dataset 2 size is 5500
+
+Calculating test statistic for nominal dataset:
+    dist_11 = 0.132528
+    dist_22 = 0.125174
+    dist_12 = 0.256639
+  T = 0.00106226
+
+Running 10000 permutations of 100 and 100 events using seed 5489
+Calculating permutation 100 of 10000
+Calculating permutation 200 of 10000
+Calculating permutation 300 of 10000
+Calculating permutation 400 of 10000
+Calculating permutation 500 of 10000
+Calculating permutation 600 of 10000
+Calculating permutation 700 of 10000
+Calculating permutation 800 of 10000
+Calculating permutation 900 of 10000
+Calculating permutation 1000 of 10000
+Calculating permutation 1100 of 10000
+Calculating permutation 1200 of 10000
+Calculating permutation 1300 of 10000
+Calculating permutation 1400 of 10000
+Calculating permutation 1500 of 10000
+Calculating permutation 1600 of 10000
+Calculating permutation 1700 of 10000
+Calculating permutation 1800 of 10000
+Calculating permutation 1900 of 10000
+Calculating permutation 2000 of 10000
+Calculating permutation 2100 of 10000
+Calculating permutation 2200 of 10000
+Calculating permutation 2300 of 10000
+Calculating permutation 2400 of 10000
+Calculating permutation 2500 of 10000
+Calculating permutation 2600 of 10000
+Calculating permutation 2700 of 10000
+Calculating permutation 2800 of 10000
+Calculating permutation 2900 of 10000
+Calculating permutation 3000 of 10000
+Calculating permutation 3100 of 10000
+Calculating permutation 3200 of 10000
+Calculating permutation 3300 of 10000
+Calculating permutation 3400 of 10000
+Calculating permutation 3500 of 10000
+Calculating permutation 3600 of 10000
+Calculating permutation 3700 of 10000
+Calculating permutation 3800 of 10000
+Calculating permutation 3900 of 10000
+Calculating permutation 4000 of 10000
+Calculating permutation 4100 of 10000
+Calculating permutation 4200 of 10000
+Calculating permutation 4300 of 10000
+Calculating permutation 4400 of 10000
+Calculating permutation 4500 of 10000
+Calculating permutation 4600 of 10000
+Calculating permutation 4700 of 10000
+Calculating permutation 4800 of 10000
+Calculating permutation 4900 of 10000
+Calculating permutation 5000 of 10000
+Calculating permutation 5100 of 10000
+Calculating permutation 5200 of 10000
+Calculating permutation 5300 of 10000
+Calculating permutation 5400 of 10000
+Calculating permutation 5500 of 10000
+Calculating permutation 5600 of 10000
+Calculating permutation 5700 of 10000
+Calculating permutation 5800 of 10000
+Calculating permutation 5900 of 10000
+Calculating permutation 6000 of 10000
+Calculating permutation 6100 of 10000
+Calculating permutation 6200 of 10000
+Calculating permutation 6300 of 10000
+Calculating permutation 6400 of 10000
+Calculating permutation 6500 of 10000
+Calculating permutation 6600 of 10000
+Calculating permutation 6700 of 10000
+Calculating permutation 6800 of 10000
+Calculating permutation 6900 of 10000
+Calculating permutation 7000 of 10000
+Calculating permutation 7100 of 10000
+Calculating permutation 7200 of 10000
+Calculating permutation 7300 of 10000
+Calculating permutation 7400 of 10000
+Calculating permutation 7500 of 10000
+Calculating permutation 7600 of 10000
+Calculating permutation 7700 of 10000
+Calculating permutation 7800 of 10000
+Calculating permutation 7900 of 10000
+Calculating permutation 8000 of 10000
+Calculating permutation 8100 of 10000
+Calculating permutation 8200 of 10000
+Calculating permutation 8300 of 10000
+Calculating permutation 8400 of 10000
+Calculating permutation 8500 of 10000
+Calculating permutation 8600 of 10000
+Calculating permutation 8700 of 10000
+Calculating permutation 8800 of 10000
+Calculating permutation 8900 of 10000
+Calculating permutation 9000 of 10000
+Calculating permutation 9100 of 10000
+Calculating permutation 9200 of 10000
+Calculating permutation 9300 of 10000
+Calculating permutation 9400 of 10000
+Calculating permutation 9500 of 10000
+Calculating permutation 9600 of 10000
+Calculating permutation 9700 of 10000
+Calculating permutation 9800 of 10000
+Calculating permutation 9900 of 10000
+Calculating permutation 10000 of 10000
+p value is: 0
+
+ 
+Running on ensemble 6 of 100
+Running in exact mode
+Distance parameter set to 0.2
+Dataset 1 size is 5500
+Dataset 2 size is 5500
+
+Calculating test statistic for nominal dataset:
+    dist_11 = 0.133464
+    dist_22 = 0.12558
+    dist_12 = 0.258074
+  T = 0.000969821
+
+Running 10000 permutations of 100 and 100 events using seed 5489
+Calculating permutation 100 of 10000
+Calculating permutation 200 of 10000
+Calculating permutation 300 of 10000
+Calculating permutation 400 of 10000
+Calculating permutation 500 of 10000
+Calculating permutation 600 of 10000
+Calculating permutation 700 of 10000
+Calculating permutation 800 of 10000
+Calculating permutation 900 of 10000
+Calculating permutation 1000 of 10000
+Calculating permutation 1100 of 10000
+Calculating permutation 1200 of 10000
+Calculating permutation 1300 of 10000
+Calculating permutation 1400 of 10000
+Calculating permutation 1500 of 10000
+Calculating permutation 1600 of 10000
+Calculating permutation 1700 of 10000
+Calculating permutation 1800 of 10000
+Calculating permutation 1900 of 10000
+Calculating permutation 2000 of 10000
+Calculating permutation 2100 of 10000
+Calculating permutation 2200 of 10000
+Calculating permutation 2300 of 10000
+Calculating permutation 2400 of 10000
+Calculating permutation 2500 of 10000
+Calculating permutation 2600 of 10000
+Calculating permutation 2700 of 10000
+Calculating permutation 2800 of 10000
+Calculating permutation 2900 of 10000
+Calculating permutation 3000 of 10000
+Calculating permutation 3100 of 10000
+Calculating permutation 3200 of 10000
+Calculating permutation 3300 of 10000
+Calculating permutation 3400 of 10000
+Calculating permutation 3500 of 10000
+Calculating permutation 3600 of 10000
+Calculating permutation 3700 of 10000
+Calculating permutation 3800 of 10000
+Calculating permutation 3900 of 10000
+Calculating permutation 4000 of 10000
+Calculating permutation 4100 of 10000
+Calculating permutation 4200 of 10000
+Calculating permutation 4300 of 10000
+Calculating permutation 4400 of 10000
+Calculating permutation 4500 of 10000
+Calculating permutation 4600 of 10000
+Calculating permutation 4700 of 10000
+Calculating permutation 4800 of 10000
+Calculating permutation 4900 of 10000
+Calculating permutation 5000 of 10000
+Calculating permutation 5100 of 10000
+Calculating permutation 5200 of 10000
+Calculating permutation 5300 of 10000
+Calculating permutation 5400 of 10000
+Calculating permutation 5500 of 10000
+Calculating permutation 5600 of 10000
+Calculating permutation 5700 of 10000
+Calculating permutation 5800 of 10000
+Calculating permutation 5900 of 10000
+Calculating permutation 6000 of 10000
+Calculating permutation 6100 of 10000
+Calculating permutation 6200 of 10000
+Calculating permutation 6300 of 10000
+Calculating permutation 6400 of 10000
+Calculating permutation 6500 of 10000
+Calculating permutation 6600 of 10000
+Calculating permutation 6700 of 10000
+Calculating permutation 6800 of 10000
+Calculating permutation 6900 of 10000
+Calculating permutation 7000 of 10000
+Calculating permutation 7100 of 10000
+Calculating permutation 7200 of 10000
+Calculating permutation 7300 of 10000
+Calculating permutation 7400 of 10000
+Calculating permutation 7500 of 10000
+Calculating permutation 7600 of 10000
+Calculating permutation 7700 of 10000
+Calculating permutation 7800 of 10000
+Calculating permutation 7900 of 10000
+Calculating permutation 8000 of 10000
+Calculating permutation 8100 of 10000
+Calculating permutation 8200 of 10000
+Calculating permutation 8300 of 10000
+Calculating permutation 8400 of 10000
+Calculating permutation 8500 of 10000
+Calculating permutation 8600 of 10000
+Calculating permutation 8700 of 10000
+Calculating permutation 8800 of 10000
+Calculating permutation 8900 of 10000
+Calculating permutation 9000 of 10000
+Calculating permutation 9100 of 10000
+Calculating permutation 9200 of 10000
+Calculating permutation 9300 of 10000
+Calculating permutation 9400 of 10000
+Calculating permutation 9500 of 10000
+Calculating permutation 9600 of 10000
+Calculating permutation 9700 of 10000
+Calculating permutation 9800 of 10000
+Calculating permutation 9900 of 10000
+Calculating permutation 10000 of 10000
+p value is: 0
+
+ 
+Running on ensemble 7 of 100
+Running in exact mode
+Distance parameter set to 0.2
+Dataset 1 size is 5500
+Dataset 2 size is 5500
+
+Calculating test statistic for nominal dataset:
+    dist_11 = 0.133181
+    dist_22 = 0.125687
+    dist_12 = 0.257657
+  T = 0.0012106
+
+Running 10000 permutations of 100 and 100 events using seed 5489
+Calculating permutation 100 of 10000
+Calculating permutation 200 of 10000
+Calculating permutation 300 of 10000
+Calculating permutation 400 of 10000
+Calculating permutation 500 of 10000
+Calculating permutation 600 of 10000
+Calculating permutation 700 of 10000
+Calculating permutation 800 of 10000
+Calculating permutation 900 of 10000
+Calculating permutation 1000 of 10000
+Calculating permutation 1100 of 10000
+Calculating permutation 1200 of 10000
+Calculating permutation 1300 of 10000
+Calculating permutation 1400 of 10000
+Calculating permutation 1500 of 10000
+Calculating permutation 1600 of 10000
+Calculating permutation 1700 of 10000
+Calculating permutation 1800 of 10000
+Calculating permutation 1900 of 10000
+Calculating permutation 2000 of 10000
+Calculating permutation 2100 of 10000
+Calculating permutation 2200 of 10000
+Calculating permutation 2300 of 10000
+Calculating permutation 2400 of 10000
+Calculating permutation 2500 of 10000
+Calculating permutation 2600 of 10000
+Calculating permutation 2700 of 10000
+Calculating permutation 2800 of 10000
+Calculating permutation 2900 of 10000
+Calculating permutation 3000 of 10000
+Calculating permutation 3100 of 10000
+Calculating permutation 3200 of 10000
+Calculating permutation 3300 of 10000
+Calculating permutation 3400 of 10000
+Calculating permutation 3500 of 10000
+Calculating permutation 3600 of 10000
+Calculating permutation 3700 of 10000
+Calculating permutation 3800 of 10000
+Calculating permutation 3900 of 10000
+Calculating permutation 4000 of 10000
+Calculating permutation 4100 of 10000
+Calculating permutation 4200 of 10000
+Calculating permutation 4300 of 10000
+Calculating permutation 4400 of 10000
+Calculating permutation 4500 of 10000
+Calculating permutation 4600 of 10000
+Calculating permutation 4700 of 10000
+Calculating permutation 4800 of 10000
+Calculating permutation 4900 of 10000
+Calculating permutation 5000 of 10000
+Calculating permutation 5100 of 10000
+Calculating permutation 5200 of 10000
+Calculating permutation 5300 of 10000
+Calculating permutation 5400 of 10000
+Calculating permutation 5500 of 10000
+Calculating permutation 5600 of 10000
+Calculating permutation 5700 of 10000
+Calculating permutation 5800 of 10000
+Calculating permutation 5900 of 10000
+Calculating permutation 6000 of 10000
+Calculating permutation 6100 of 10000
+Calculating permutation 6200 of 10000
+Calculating permutation 6300 of 10000
+Calculating permutation 6400 of 10000
+Calculating permutation 6500 of 10000
+Calculating permutation 6600 of 10000
+Calculating permutation 6700 of 10000
+Calculating permutation 6800 of 10000
+Calculating permutation 6900 of 10000
+Calculating permutation 7000 of 10000
+Calculating permutation 7100 of 10000
+Calculating permutation 7200 of 10000
+Calculating permutation 7300 of 10000
+Calculating permutation 7400 of 10000
+Calculating permutation 7500 of 10000
+Calculating permutation 7600 of 10000
+Calculating permutation 7700 of 10000
+Calculating permutation 7800 of 10000
+Calculating permutation 7900 of 10000
+Calculating permutation 8000 of 10000
+Calculating permutation 8100 of 10000
+Calculating permutation 8200 of 10000
+Calculating permutation 8300 of 10000
+Calculating permutation 8400 of 10000
+Calculating permutation 8500 of 10000
+Calculating permutation 8600 of 10000
+Calculating permutation 8700 of 10000
+Calculating permutation 8800 of 10000
+Calculating permutation 8900 of 10000
+Calculating permutation 9000 of 10000
+Calculating permutation 9100 of 10000
+Calculating permutation 9200 of 10000
+Calculating permutation 9300 of 10000
+Calculating permutation 9400 of 10000
+Calculating permutation 9500 of 10000
+Calculating permutation 9600 of 10000
+Calculating permutation 9700 of 10000
+Calculating permutation 9800 of 10000
+Calculating permutation 9900 of 10000
+Calculating permutation 10000 of 10000
+p value is: 0
+
+ 
+Running on ensemble 8 of 100
+Running in exact mode
+Distance parameter set to 0.2
+Dataset 1 size is 5500
+Dataset 2 size is 5500
+
+Calculating test statistic for nominal dataset:
+    dist_11 = 0.132236
+    dist_22 = 0.127417
+    dist_12 = 0.259188
+  T = 0.000465436
+
+Running 10000 permutations of 100 and 100 events using seed 5489
+Calculating permutation 100 of 10000
+Calculating permutation 200 of 10000
+Calculating permutation 300 of 10000
+Calculating permutation 400 of 10000
+Calculating permutation 500 of 10000
+Calculating permutation 600 of 10000
+Calculating permutation 700 of 10000
+Calculating permutation 800 of 10000
+Calculating permutation 900 of 10000
+Calculating permutation 1000 of 10000
+Calculating permutation 1100 of 10000
+Calculating permutation 1200 of 10000
+Calculating permutation 1300 of 10000
+Calculating permutation 1400 of 10000
+Calculating permutation 1500 of 10000
+Calculating permutation 1600 of 10000
+Calculating permutation 1700 of 10000
+Calculating permutation 1800 of 10000
+Calculating permutation 1900 of 10000
+Calculating permutation 2000 of 10000
+Calculating permutation 2100 of 10000
+Calculating permutation 2200 of 10000
+Calculating permutation 2300 of 10000
+Calculating permutation 2400 of 10000
+Calculating permutation 2500 of 10000
+Calculating permutation 2600 of 10000
+Calculating permutation 2700 of 10000
+Calculating permutation 2800 of 10000
+Calculating permutation 2900 of 10000
+Calculating permutation 3000 of 10000
+Calculating permutation 3100 of 10000
+Calculating permutation 3200 of 10000
+Calculating permutation 3300 of 10000
+Calculating permutation 3400 of 10000
+Calculating permutation 3500 of 10000
+Calculating permutation 3600 of 10000
+Calculating permutation 3700 of 10000
+Calculating permutation 3800 of 10000
+Calculating permutation 3900 of 10000
+Calculating permutation 4000 of 10000
+Calculating permutation 4100 of 10000
+Calculating permutation 4200 of 10000
+Calculating permutation 4300 of 10000
+Calculating permutation 4400 of 10000
+Calculating permutation 4500 of 10000
+Calculating permutation 4600 of 10000
+Calculating permutation 4700 of 10000
+Calculating permutation 4800 of 10000
+Calculating permutation 4900 of 10000
+Calculating permutation 5000 of 10000
+Calculating permutation 5100 of 10000
+Calculating permutation 5200 of 10000
+Calculating permutation 5300 of 10000
+Calculating permutation 5400 of 10000
+Calculating permutation 5500 of 10000
+Calculating permutation 5600 of 10000
+Calculating permutation 5700 of 10000
+Calculating permutation 5800 of 10000
+Calculating permutation 5900 of 10000
+Calculating permutation 6000 of 10000
+Calculating permutation 6100 of 10000
+Calculating permutation 6200 of 10000
+Calculating permutation 6300 of 10000
+Calculating permutation 6400 of 10000
+Calculating permutation 6500 of 10000
+Calculating permutation 6600 of 10000
+Calculating permutation 6700 of 10000
+Calculating permutation 6800 of 10000
+Calculating permutation 6900 of 10000
+Calculating permutation 7000 of 10000
+Calculating permutation 7100 of 10000
+Calculating permutation 7200 of 10000
+Calculating permutation 7300 of 10000
+Calculating permutation 7400 of 10000
+Calculating permutation 7500 of 10000
+Calculating permutation 7600 of 10000
+Calculating permutation 7700 of 10000
+Calculating permutation 7800 of 10000
+Calculating permutation 7900 of 10000
+Calculating permutation 8000 of 10000
+Calculating permutation 8100 of 10000
+Calculating permutation 8200 of 10000
+Calculating permutation 8300 of 10000
+Calculating permutation 8400 of 10000
+Calculating permutation 8500 of 10000
+Calculating permutation 8600 of 10000
+Calculating permutation 8700 of 10000
+Calculating permutation 8800 of 10000
+Calculating permutation 8900 of 10000
+Calculating permutation 9000 of 10000
+Calculating permutation 9100 of 10000
+Calculating permutation 9200 of 10000
+Calculating permutation 9300 of 10000
+Calculating permutation 9400 of 10000
+Calculating permutation 9500 of 10000
+Calculating permutation 9600 of 10000
+Calculating permutation 9700 of 10000
+Calculating permutation 9800 of 10000
+Calculating permutation 9900 of 10000
+Calculating permutation 10000 of 10000
+p value is: 0
+
+ 
+Running on ensemble 9 of 100
+Running in exact mode
+Distance parameter set to 0.2
+Dataset 1 size is 5500
+Dataset 2 size is 5500
+
+Calculating test statistic for nominal dataset:
+    dist_11 = 0.132846
+    dist_22 = 0.126392
+    dist_12 = 0.258274
+  T = 0.000964312
+
+Running 10000 permutations of 100 and 100 events using seed 5489
+Calculating permutation 100 of 10000
+Calculating permutation 200 of 10000
+Calculating permutation 300 of 10000
+Calculating permutation 400 of 10000
+Calculating permutation 500 of 10000
+Calculating permutation 600 of 10000
+Calculating permutation 700 of 10000
+Calculating permutation 800 of 10000
+Calculating permutation 900 of 10000
+Calculating permutation 1000 of 10000
+Calculating permutation 1100 of 10000
+Calculating permutation 1200 of 10000
+Calculating permutation 1300 of 10000
+Calculating permutation 1400 of 10000
+Calculating permutation 1500 of 10000
+Calculating permutation 1600 of 10000
+Calculating permutation 1700 of 10000
+Calculating permutation 1800 of 10000
+Calculating permutation 1900 of 10000
+Calculating permutation 2000 of 10000
+Calculating permutation 2100 of 10000
+Calculating permutation 2200 of 10000
+Calculating permutation 2300 of 10000
+Calculating permutation 2400 of 10000
+Calculating permutation 2500 of 10000
+Calculating permutation 2600 of 10000
+Calculating permutation 2700 of 10000
+Calculating permutation 2800 of 10000
+Calculating permutation 2900 of 10000
+Calculating permutation 3000 of 10000
+Calculating permutation 3100 of 10000
+Calculating permutation 3200 of 10000
+Calculating permutation 3300 of 10000
+Calculating permutation 3400 of 10000
+Calculating permutation 3500 of 10000
+Calculating permutation 3600 of 10000
+Calculating permutation 3700 of 10000
+Calculating permutation 3800 of 10000
+Calculating permutation 3900 of 10000
+Calculating permutation 4000 of 10000
+Calculating permutation 4100 of 10000
+Calculating permutation 4200 of 10000
+Calculating permutation 4300 of 10000
+Calculating permutation 4400 of 10000
+Calculating permutation 4500 of 10000
+Calculating permutation 4600 of 10000
+Calculating permutation 4700 of 10000
+Calculating permutation 4800 of 10000
+Calculating permutation 4900 of 10000
+Calculating permutation 5000 of 10000
+Calculating permutation 5100 of 10000
+Calculating permutation 5200 of 10000
+Calculating permutation 5300 of 10000
+Calculating permutation 5400 of 10000
+Calculating permutation 5500 of 10000
+Calculating permutation 5600 of 10000
+Calculating permutation 5700 of 10000
+Calculating permutation 5800 of 10000
+Calculating permutation 5900 of 10000
+Calculating permutation 6000 of 10000
+Calculating permutation 6100 of 10000
+Calculating permutation 6200 of 10000
+Calculating permutation 6300 of 10000
+Calculating permutation 6400 of 10000
+Calculating permutation 6500 of 10000
+Calculating permutation 6600 of 10000
+Calculating permutation 6700 of 10000
+Calculating permutation 6800 of 10000
+Calculating permutation 6900 of 10000
+Calculating permutation 7000 of 10000
+Calculating permutation 7100 of 10000
+Calculating permutation 7200 of 10000
+Calculating permutation 7300 of 10000
+Calculating permutation 7400 of 10000
+Calculating permutation 7500 of 10000
+Calculating permutation 7600 of 10000
+Calculating permutation 7700 of 10000
+Calculating permutation 7800 of 10000
+Calculating permutation 7900 of 10000
+Calculating permutation 8000 of 10000
+Calculating permutation 8100 of 10000
+Calculating permutation 8200 of 10000
+Calculating permutation 8300 of 10000
+Calculating permutation 8400 of 10000
+Calculating permutation 8500 of 10000
+Calculating permutation 8600 of 10000
+Calculating permutation 8700 of 10000
+Calculating permutation 8800 of 10000
+Calculating permutation 8900 of 10000
+Calculating permutation 9000 of 10000
+Calculating permutation 9100 of 10000
+Calculating permutation 9200 of 10000
+Calculating permutation 9300 of 10000
+Calculating permutation 9400 of 10000
+Calculating permutation 9500 of 10000
+Calculating permutation 9600 of 10000
+Calculating permutation 9700 of 10000
+Calculating permutation 9800 of 10000
+Calculating permutation 9900 of 10000
+Calculating permutation 10000 of 10000
+p value is: 0
+
+ 
+Running on ensemble 10 of 100
+Running in exact mode
+Distance parameter set to 0.2
+Dataset 1 size is 5500
+Dataset 2 size is 5500
+
+Calculating test statistic for nominal dataset:
+    dist_11 = 0.133493
+    dist_22 = 0.125706
+    dist_12 = 0.257713
+  T = 0.00148599
+
+Running 10000 permutations of 100 and 100 events using seed 5489
+Calculating permutation 100 of 10000
+Calculating permutation 200 of 10000
+Calculating permutation 300 of 10000
+Calculating permutation 400 of 10000
+Calculating permutation 500 of 10000
+Calculating permutation 600 of 10000
+Calculating permutation 700 of 10000
+Calculating permutation 800 of 10000
+Calculating permutation 900 of 10000
+Calculating permutation 1000 of 10000
+Calculating permutation 1100 of 10000
+Calculating permutation 1200 of 10000
+Calculating permutation 1300 of 10000
+Calculating permutation 1400 of 10000
+Calculating permutation 1500 of 10000
+Calculating permutation 1600 of 10000
+Calculating permutation 1700 of 10000
+Calculating permutation 1800 of 10000
+Calculating permutation 1900 of 10000
+Calculating permutation 2000 of 10000
+Calculating permutation 2100 of 10000
+Calculating permutation 2200 of 10000
+Calculating permutation 2300 of 10000
+Calculating permutation 2400 of 10000
+Calculating permutation 2500 of 10000
+Calculating permutation 2600 of 10000
+Calculating permutation 2700 of 10000
+Calculating permutation 2800 of 10000
+Calculating permutation 2900 of 10000
+Calculating permutation 3000 of 10000
+Calculating permutation 3100 of 10000
+Calculating permutation 3200 of 10000
+Calculating permutation 3300 of 10000
+Calculating permutation 3400 of 10000
+Calculating permutation 3500 of 10000
+Calculating permutation 3600 of 10000
+Calculating permutation 3700 of 10000
+Calculating permutation 3800 of 10000
+Calculating permutation 3900 of 10000
+Calculating permutation 4000 of 10000
+Calculating permutation 4100 of 10000
+Calculating permutation 4200 of 10000
+Calculating permutation 4300 of 10000
+Calculating permutation 4400 of 10000
+Calculating permutation 4500 of 10000
+Calculating permutation 4600 of 10000
+Calculating permutation 4700 of 10000
+Calculating permutation 4800 of 10000
+Calculating permutation 4900 of 10000
+Calculating permutation 5000 of 10000
+Calculating permutation 5100 of 10000
+Calculating permutation 5200 of 10000
+Calculating permutation 5300 of 10000
+Calculating permutation 5400 of 10000
+Calculating permutation 5500 of 10000
+Calculating permutation 5600 of 10000
+Calculating permutation 5700 of 10000
+Calculating permutation 5800 of 10000
+Calculating permutation 5900 of 10000
+Calculating permutation 6000 of 10000
+Calculating permutation 6100 of 10000
+Calculating permutation 6200 of 10000
+Calculating permutation 6300 of 10000
+Calculating permutation 6400 of 10000
+Calculating permutation 6500 of 10000
+Calculating permutation 6600 of 10000
+Calculating permutation 6700 of 10000
+Calculating permutation 6800 of 10000
+Calculating permutation 6900 of 10000
+Calculating permutation 7000 of 10000
+Calculating permutation 7100 of 10000
+Calculating permutation 7200 of 10000
+Calculating permutation 7300 of 10000
+Calculating permutation 7400 of 10000
+Calculating permutation 7500 of 10000
+Calculating permutation 7600 of 10000
+Calculating permutation 7700 of 10000
+Calculating permutation 7800 of 10000
+Calculating permutation 7900 of 10000
+Calculating permutation 8000 of 10000
+Calculating permutation 8100 of 10000
+Calculating permutation 8200 of 10000
+Calculating permutation 8300 of 10000
+Calculating permutation 8400 of 10000
+Calculating permutation 8500 of 10000
+Calculating permutation 8600 of 10000
+Calculating permutation 8700 of 10000
+Calculating permutation 8800 of 10000
+Calculating permutation 8900 of 10000
+Calculating permutation 9000 of 10000
+Calculating permutation 9100 of 10000
+Calculating permutation 9200 of 10000
+Calculating permutation 9300 of 10000
+Calculating permutation 9400 of 10000
+Calculating permutation 9500 of 10000
+Calculating permutation 9600 of 10000
+Calculating permutation 9700 of 10000
+Calculating permutation 9800 of 10000
+Calculating permutation 9900 of 10000
+Calculating permutation 10000 of 10000
+p value is: 0
+
+ 
+Running on ensemble 11 of 100
+Running in exact mode
+Distance parameter set to 0.2
+Dataset 1 size is 5500
+Dataset 2 size is 5500
+
+Calculating test statistic for nominal dataset:
+    dist_11 = 0.133021
+    dist_22 = 0.127246
+    dist_12 = 0.259059
+  T = 0.00120813
+
+Running 10000 permutations of 100 and 100 events using seed 5489
+Calculating permutation 100 of 10000
+Calculating permutation 200 of 10000
+Calculating permutation 300 of 10000
+Calculating permutation 400 of 10000
+Calculating permutation 500 of 10000
+Calculating permutation 600 of 10000
+Calculating permutation 700 of 10000
+Calculating permutation 800 of 10000
+Calculating permutation 900 of 10000
+Calculating permutation 1000 of 10000
+Calculating permutation 1100 of 10000
+Calculating permutation 1200 of 10000
+Calculating permutation 1300 of 10000
+Calculating permutation 1400 of 10000
+Calculating permutation 1500 of 10000
+Calculating permutation 1600 of 10000
+Calculating permutation 1700 of 10000
+Calculating permutation 1800 of 10000
+Calculating permutation 1900 of 10000
+Calculating permutation 2000 of 10000
+Calculating permutation 2100 of 10000
+Calculating permutation 2200 of 10000
+Calculating permutation 2300 of 10000
+Calculating permutation 2400 of 10000
+Calculating permutation 2500 of 10000
+Calculating permutation 2600 of 10000
+Calculating permutation 2700 of 10000
+Calculating permutation 2800 of 10000
+Calculating permutation 2900 of 10000
+Calculating permutation 3000 of 10000
+Calculating permutation 3100 of 10000
+Calculating permutation 3200 of 10000
+Calculating permutation 3300 of 10000
+Calculating permutation 3400 of 10000
+Calculating permutation 3500 of 10000
+Calculating permutation 3600 of 10000
+Calculating permutation 3700 of 10000
+Calculating permutation 3800 of 10000
+Calculating permutation 3900 of 10000
+Calculating permutation 4000 of 10000
+Calculating permutation 4100 of 10000
+Calculating permutation 4200 of 10000
+Calculating permutation 4300 of 10000
+Calculating permutation 4400 of 10000
+Calculating permutation 4500 of 10000
+Calculating permutation 4600 of 10000
+Calculating permutation 4700 of 10000
+Calculating permutation 4800 of 10000
+Calculating permutation 4900 of 10000
+Calculating permutation 5000 of 10000
+Calculating permutation 5100 of 10000
+Calculating permutation 5200 of 10000
+Calculating permutation 5300 of 10000
+Calculating permutation 5400 of 10000
+Calculating permutation 5500 of 10000
+Calculating permutation 5600 of 10000
+Calculating permutation 5700 of 10000
+Calculating permutation 5800 of 10000
+Calculating permutation 5900 of 10000
+Calculating permutation 6000 of 10000
+Calculating permutation 6100 of 10000
+Calculating permutation 6200 of 10000
+Calculating permutation 6300 of 10000
+Calculating permutation 6400 of 10000
+Calculating permutation 6500 of 10000
+Calculating permutation 6600 of 10000
+Calculating permutation 6700 of 10000
+Calculating permutation 6800 of 10000
+Calculating permutation 6900 of 10000
+Calculating permutation 7000 of 10000
+Calculating permutation 7100 of 10000
+Calculating permutation 7200 of 10000
+Calculating permutation 7300 of 10000
+Calculating permutation 7400 of 10000
+Calculating permutation 7500 of 10000
+Calculating permutation 7600 of 10000
+Calculating permutation 7700 of 10000
+Calculating permutation 7800 of 10000
+Calculating permutation 7900 of 10000
+Calculating permutation 8000 of 10000
+Calculating permutation 8100 of 10000
+Calculating permutation 8200 of 10000
+Calculating permutation 8300 of 10000
+Calculating permutation 8400 of 10000
+Calculating permutation 8500 of 10000
+Calculating permutation 8600 of 10000
+Calculating permutation 8700 of 10000
+Calculating permutation 8800 of 10000
+Calculating permutation 8900 of 10000
+Calculating permutation 9000 of 10000
+Calculating permutation 9100 of 10000
+Calculating permutation 9200 of 10000
+Calculating permutation 9300 of 10000
+Calculating permutation 9400 of 10000
+Calculating permutation 9500 of 10000
+Calculating permutation 9600 of 10000
+Calculating permutation 9700 of 10000
+Calculating permutation 9800 of 10000
+Calculating permutation 9900 of 10000
+Calculating permutation 10000 of 10000
+p value is: 0
+
+ 
+Running on ensemble 12 of 100
+Running in exact mode
+Distance parameter set to 0.2
+Dataset 1 size is 5500
+Dataset 2 size is 5500
+
+Calculating test statistic for nominal dataset:
+    dist_11 = 0.134321
+    dist_22 = 0.127021
+    dist_12 = 0.260313
+  T = 0.00102953
+
+Running 10000 permutations of 100 and 100 events using seed 5489
+Calculating permutation 100 of 10000
+Calculating permutation 200 of 10000
+Calculating permutation 300 of 10000
+Calculating permutation 400 of 10000
+Calculating permutation 500 of 10000
+Calculating permutation 600 of 10000
+Calculating permutation 700 of 10000
+Calculating permutation 800 of 10000
+Calculating permutation 900 of 10000
+Calculating permutation 1000 of 10000
+Calculating permutation 1100 of 10000
+Calculating permutation 1200 of 10000
+Calculating permutation 1300 of 10000
+Calculating permutation 1400 of 10000
+Calculating permutation 1500 of 10000
+Calculating permutation 1600 of 10000
+Calculating permutation 1700 of 10000
+Calculating permutation 1800 of 10000
+Calculating permutation 1900 of 10000
+Calculating permutation 2000 of 10000
+Calculating permutation 2100 of 10000
+Calculating permutation 2200 of 10000
+Calculating permutation 2300 of 10000
+Calculating permutation 2400 of 10000
+Calculating permutation 2500 of 10000
+Calculating permutation 2600 of 10000
+Calculating permutation 2700 of 10000
+Calculating permutation 2800 of 10000
+Calculating permutation 2900 of 10000
+Calculating permutation 3000 of 10000
+Calculating permutation 3100 of 10000
+Calculating permutation 3200 of 10000
+Calculating permutation 3300 of 10000
+Calculating permutation 3400 of 10000
+Calculating permutation 3500 of 10000
+Calculating permutation 3600 of 10000
+Calculating permutation 3700 of 10000
+Calculating permutation 3800 of 10000
+Calculating permutation 3900 of 10000
+Calculating permutation 4000 of 10000
+Calculating permutation 4100 of 10000
+Calculating permutation 4200 of 10000
+Calculating permutation 4300 of 10000
+Calculating permutation 4400 of 10000
+Calculating permutation 4500 of 10000
+Calculating permutation 4600 of 10000
+Calculating permutation 4700 of 10000
+Calculating permutation 4800 of 10000
+Calculating permutation 4900 of 10000
+Calculating permutation 5000 of 10000
+Calculating permutation 5100 of 10000
+Calculating permutation 5200 of 10000
+Calculating permutation 5300 of 10000
+Calculating permutation 5400 of 10000
+Calculating permutation 5500 of 10000
+Calculating permutation 5600 of 10000
+Calculating permutation 5700 of 10000
+Calculating permutation 5800 of 10000
+Calculating permutation 5900 of 10000
+Calculating permutation 6000 of 10000
+Calculating permutation 6100 of 10000
+Calculating permutation 6200 of 10000
+Calculating permutation 6300 of 10000
+Calculating permutation 6400 of 10000
+Calculating permutation 6500 of 10000
+Calculating permutation 6600 of 10000
+Calculating permutation 6700 of 10000
+Calculating permutation 6800 of 10000
+Calculating permutation 6900 of 10000
+Calculating permutation 7000 of 10000
+Calculating permutation 7100 of 10000
+Calculating permutation 7200 of 10000
+Calculating permutation 7300 of 10000
+Calculating permutation 7400 of 10000
+Calculating permutation 7500 of 10000
+Calculating permutation 7600 of 10000
+Calculating permutation 7700 of 10000
+Calculating permutation 7800 of 10000
+Calculating permutation 7900 of 10000
+Calculating permutation 8000 of 10000
+Calculating permutation 8100 of 10000
+Calculating permutation 8200 of 10000
+Calculating permutation 8300 of 10000
+Calculating permutation 8400 of 10000
+Calculating permutation 8500 of 10000
+Calculating permutation 8600 of 10000
+Calculating permutation 8700 of 10000
+Calculating permutation 8800 of 10000
+Calculating permutation 8900 of 10000
+Calculating permutation 9000 of 10000
+Calculating permutation 9100 of 10000
+Calculating permutation 9200 of 10000
+Calculating permutation 9300 of 10000
+Calculating permutation 9400 of 10000
+Calculating permutation 9500 of 10000
+Calculating permutation 9600 of 10000
+Calculating permutation 9700 of 10000
+Calculating permutation 9800 of 10000
+Calculating permutation 9900 of 10000
+Calculating permutation 10000 of 10000
+p value is: 0
+
+ 
+Running on ensemble 13 of 100
+Running in exact mode
+Distance parameter set to 0.2
+Dataset 1 size is 5500
+Dataset 2 size is 5500
+
+Calculating test statistic for nominal dataset:
+    dist_11 = 0.132488
+    dist_22 = 0.127239
+    dist_12 = 0.259344
+  T = 0.000383021
+
+Running 10000 permutations of 100 and 100 events using seed 5489
+Calculating permutation 100 of 10000
+Calculating permutation 200 of 10000
+Calculating permutation 300 of 10000
+Calculating permutation 400 of 10000
+Calculating permutation 500 of 10000
+Calculating permutation 600 of 10000
+Calculating permutation 700 of 10000
+Calculating permutation 800 of 10000
+Calculating permutation 900 of 10000
+Calculating permutation 1000 of 10000
+Calculating permutation 1100 of 10000
+Calculating permutation 1200 of 10000
+Calculating permutation 1300 of 10000
+Calculating permutation 1400 of 10000
+Calculating permutation 1500 of 10000
+Calculating permutation 1600 of 10000
+Calculating permutation 1700 of 10000
+Calculating permutation 1800 of 10000
+Calculating permutation 1900 of 10000
+Calculating permutation 2000 of 10000
+Calculating permutation 2100 of 10000
+Calculating permutation 2200 of 10000
+Calculating permutation 2300 of 10000
+Calculating permutation 2400 of 10000
+Calculating permutation 2500 of 10000
+Calculating permutation 2600 of 10000
+Calculating permutation 2700 of 10000
+Calculating permutation 2800 of 10000
+Calculating permutation 2900 of 10000
+Calculating permutation 3000 of 10000
+Calculating permutation 3100 of 10000
+Calculating permutation 3200 of 10000
+Calculating permutation 3300 of 10000
+Calculating permutation 3400 of 10000
+Calculating permutation 3500 of 10000
+Calculating permutation 3600 of 10000
+Calculating permutation 3700 of 10000
+Calculating permutation 3800 of 10000
+Calculating permutation 3900 of 10000
+Calculating permutation 4000 of 10000
+Calculating permutation 4100 of 10000
+Calculating permutation 4200 of 10000
+Calculating permutation 4300 of 10000
+Calculating permutation 4400 of 10000
+Calculating permutation 4500 of 10000
+Calculating permutation 4600 of 10000
+Calculating permutation 4700 of 10000
+Calculating permutation 4800 of 10000
+Calculating permutation 4900 of 10000
+Calculating permutation 5000 of 10000
+Calculating permutation 5100 of 10000
+Calculating permutation 5200 of 10000
+Calculating permutation 5300 of 10000
+Calculating permutation 5400 of 10000
+Calculating permutation 5500 of 10000
+Calculating permutation 5600 of 10000
+Calculating permutation 5700 of 10000
+Calculating permutation 5800 of 10000
+Calculating permutation 5900 of 10000
+Calculating permutation 6000 of 10000
+Calculating permutation 6100 of 10000
+Calculating permutation 6200 of 10000
+Calculating permutation 6300 of 10000
+Calculating permutation 6400 of 10000
+Calculating permutation 6500 of 10000
+Calculating permutation 6600 of 10000
+Calculating permutation 6700 of 10000
+Calculating permutation 6800 of 10000
+Calculating permutation 6900 of 10000
+Calculating permutation 7000 of 10000
+Calculating permutation 7100 of 10000
+Calculating permutation 7200 of 10000
+Calculating permutation 7300 of 10000
+Calculating permutation 7400 of 10000
+Calculating permutation 7500 of 10000
+Calculating permutation 7600 of 10000
+Calculating permutation 7700 of 10000
+Calculating permutation 7800 of 10000
+Calculating permutation 7900 of 10000
+Calculating permutation 8000 of 10000
+Calculating permutation 8100 of 10000
+Calculating permutation 8200 of 10000
+Calculating permutation 8300 of 10000
+Calculating permutation 8400 of 10000
+Calculating permutation 8500 of 10000
+Calculating permutation 8600 of 10000
+Calculating permutation 8700 of 10000
+Calculating permutation 8800 of 10000
+Calculating permutation 8900 of 10000
+Calculating permutation 9000 of 10000
+Calculating permutation 9100 of 10000
+Calculating permutation 9200 of 10000
+Calculating permutation 9300 of 10000
+Calculating permutation 9400 of 10000
+Calculating permutation 9500 of 10000
+Calculating permutation 9600 of 10000
+Calculating permutation 9700 of 10000
+Calculating permutation 9800 of 10000
+Calculating permutation 9900 of 10000
+Calculating permutation 10000 of 10000
+p value is: 0.001
+
+ 
+Running on ensemble 14 of 100
+Running in exact mode
+Distance parameter set to 0.2
+Dataset 1 size is 5500
+Dataset 2 size is 5500
+
+Calculating test statistic for nominal dataset:
+    dist_11 = 0.131627
+    dist_22 = 0.126878
+    dist_12 = 0.25816
+  T = 0.000344801
+
+Running 10000 permutations of 100 and 100 events using seed 5489
+Calculating permutation 100 of 10000
+Calculating permutation 200 of 10000
+Calculating permutation 300 of 10000
+Calculating permutation 400 of 10000
+Calculating permutation 500 of 10000
+Calculating permutation 600 of 10000
+Calculating permutation 700 of 10000
+Calculating permutation 800 of 10000
+Calculating permutation 900 of 10000
+Calculating permutation 1000 of 10000
+Calculating permutation 1100 of 10000
+Calculating permutation 1200 of 10000
+Calculating permutation 1300 of 10000
+Calculating permutation 1400 of 10000
+Calculating permutation 1500 of 10000
+Calculating permutation 1600 of 10000
+Calculating permutation 1700 of 10000
+Calculating permutation 1800 of 10000
+Calculating permutation 1900 of 10000
+Calculating permutation 2000 of 10000
+Calculating permutation 2100 of 10000
+Calculating permutation 2200 of 10000
+Calculating permutation 2300 of 10000
+Calculating permutation 2400 of 10000
+Calculating permutation 2500 of 10000
+Calculating permutation 2600 of 10000
+Calculating permutation 2700 of 10000
+Calculating permutation 2800 of 10000
+Calculating permutation 2900 of 10000
+Calculating permutation 3000 of 10000
+Calculating permutation 3100 of 10000
+Calculating permutation 3200 of 10000
+Calculating permutation 3300 of 10000
+Calculating permutation 3400 of 10000
+Calculating permutation 3500 of 10000
+Calculating permutation 3600 of 10000
+Calculating permutation 3700 of 10000
+Calculating permutation 3800 of 10000
+Calculating permutation 3900 of 10000
+Calculating permutation 4000 of 10000
+Calculating permutation 4100 of 10000
+Calculating permutation 4200 of 10000
+Calculating permutation 4300 of 10000
+Calculating permutation 4400 of 10000
+Calculating permutation 4500 of 10000
+Calculating permutation 4600 of 10000
+Calculating permutation 4700 of 10000
+Calculating permutation 4800 of 10000
+Calculating permutation 4900 of 10000
+Calculating permutation 5000 of 10000
+Calculating permutation 5100 of 10000
+Calculating permutation 5200 of 10000
+Calculating permutation 5300 of 10000
+Calculating permutation 5400 of 10000
+Calculating permutation 5500 of 10000
+Calculating permutation 5600 of 10000
+Calculating permutation 5700 of 10000
+Calculating permutation 5800 of 10000
+Calculating permutation 5900 of 10000
+Calculating permutation 6000 of 10000
+Calculating permutation 6100 of 10000
+Calculating permutation 6200 of 10000
+Calculating permutation 6300 of 10000
+Calculating permutation 6400 of 10000
+Calculating permutation 6500 of 10000
+Calculating permutation 6600 of 10000
+Calculating permutation 6700 of 10000
+Calculating permutation 6800 of 10000
+Calculating permutation 6900 of 10000
+Calculating permutation 7000 of 10000
+Calculating permutation 7100 of 10000
+Calculating permutation 7200 of 10000
+Calculating permutation 7300 of 10000
+Calculating permutation 7400 of 10000
+Calculating permutation 7500 of 10000
+Calculating permutation 7600 of 10000
+Calculating permutation 7700 of 10000
+Calculating permutation 7800 of 10000
+Calculating permutation 7900 of 10000
+Calculating permutation 8000 of 10000
+Calculating permutation 8100 of 10000
+Calculating permutation 8200 of 10000
+Calculating permutation 8300 of 10000
+Calculating permutation 8400 of 10000
+Calculating permutation 8500 of 10000
+Calculating permutation 8600 of 10000
+Calculating permutation 8700 of 10000
+Calculating permutation 8800 of 10000
+Calculating permutation 8900 of 10000
+Calculating permutation 9000 of 10000
+Calculating permutation 9100 of 10000
+Calculating permutation 9200 of 10000
+Calculating permutation 9300 of 10000
+Calculating permutation 9400 of 10000
+Calculating permutation 9500 of 10000
+Calculating permutation 9600 of 10000
+Calculating permutation 9700 of 10000
+Calculating permutation 9800 of 10000
+Calculating permutation 9900 of 10000
+Calculating permutation 10000 of 10000
+p value is: 0.0014
+
+ 
+Running on ensemble 15 of 100
+Running in exact mode
+Distance parameter set to 0.2
+Dataset 1 size is 5500
+Dataset 2 size is 5500
+
+Calculating test statistic for nominal dataset:
+    dist_11 = 0.135099
+    dist_22 = 0.126512
+    dist_12 = 0.260353
+  T = 0.00125789
+
+Running 10000 permutations of 100 and 100 events using seed 5489
+Calculating permutation 100 of 10000
+Calculating permutation 200 of 10000
+Calculating permutation 300 of 10000
+Calculating permutation 400 of 10000
+Calculating permutation 500 of 10000
+Calculating permutation 600 of 10000
+Calculating permutation 700 of 10000
+Calculating permutation 800 of 10000
+Calculating permutation 900 of 10000
+Calculating permutation 1000 of 10000

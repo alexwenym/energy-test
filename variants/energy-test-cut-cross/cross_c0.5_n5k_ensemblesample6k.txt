@@ -1,0 +1,129 @@
+nohup: ignoring input
+Running in exact mode
+Distance parameter set to 0.5
+Dataset 1 size is 6000
+Dataset 2 size is 6000
+
+Calculating test statistic for nominal dataset:
+    dist_11 = 0.181664
+    dist_22 = 0.190984
+    dist_12 = 0.37293
+    difference in counts (T) is 7.94944e-08
+    T = 7.94944e-08
+
+Running 5000 permutations of 6000 and 6000 events using seed 5489
+BOOM!
+BOOM!
+Calculating permutation 100 of 5000
+Calculating permutation 200 of 5000
+BOOM!
+Calculating permutation 300 of 5000
+BOOM!
+Calculating permutation 400 of 5000
+BOOM!
+BOOM!
+Calculating permutation 500 of 5000
+BOOM!
+Calculating permutation 600 of 5000
+BOOM!
+BOOM!
+BOOM!
+Calculating permutation 700 of 5000
+BOOM!
+Calculating permutation 800 of 5000
+BOOM!
+BOOM!
+BOOM!
+BOOM!
+BOOM!
+Calculating permutation 900 of 5000
+Calculating permutation 1000 of 5000
+Calculating permutation 1100 of 5000
+BOOM!
+BOOM!
+BOOM!
+BOOM!
+Calculating permutation 1200 of 5000
+BOOM!
+BOOM!
+Calculating permutation 1300 of 5000
+BOOM!
+BOOM!
+BOOM!
+Calculating permutation 1400 of 5000
+BOOM!
+BOOM!
+Calculating permutation 1500 of 5000
+BOOM!
+BOOM!
+Calculating permutation 1600 of 5000
+BOOM!
+BOOM!
+BOOM!
+Calculating permutation 1700 of 5000
+Calculating permutation 1800 of 5000
+Calculating permutation 1900 of 5000
+Calculating permutation 2000 of 5000
+BOOM!
+Calculating permutation 2100 of 5000
+BOOM!
+Calculating permutation 2200 of 5000
+BOOM!
+BOOM!
+BOOM!
+Calculating permutation 2300 of 5000
+BOOM!
+BOOM!
+Calculating permutation 2400 of 5000
+BOOM!
+Calculating permutation 2500 of 5000
+BOOM!
+BOOM!
+Calculating permutation 2600 of 5000
+BOOM!
+Calculating permutation 2700 of 5000
+BOOM!
+Calculating permutation 2800 of 5000
+BOOM!
+Calculating permutation 2900 of 5000
+BOOM!
+BOOM!
+Calculating permutation 3000 of 5000
+BOOM!
+BOOM!
+Calculating permutation 3100 of 5000
+BOOM!
+BOOM!
+Calculating permutation 3200 of 5000
+Calculating permutation 3300 of 5000
+BOOM!
+Calculating permutation 3400 of 5000
+BOOM!
+BOOM!
+BOOM!
+Calculating permutation 3500 of 5000
+BOOM!
+Calculating permutation 3600 of 5000
+BOOM!
+Calculating permutation 3700 of 5000
+BOOM!
+BOOM!
+Calculating permutation 3800 of 5000
+Calculating permutation 3900 of 5000
+Calculating permutation 4000 of 5000
+Calculating permutation 4100 of 5000
+Calculating permutation 4200 of 5000
+Calculating permutation 4300 of 5000
+Calculating permutation 4400 of 5000
+BOOM!
+Calculating permutation 4500 of 5000
+Calculating permutation 4600 of 5000
+Calculating permutation 4700 of 5000
+BOOM!
+BOOM!
+Calculating permutation 4800 of 5000
+BOOM!
+Calculating permutation 4900 of 5000
+BOOM!
+Calculating permutation 5000 of 5000
+p value is: 0.0128

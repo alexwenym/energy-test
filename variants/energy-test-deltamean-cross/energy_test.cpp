@@ -106,7 +106,7 @@ sum_moments compute_distance(const std::vector<Event> &data_1, const std::vector
             double x3 = event_1.s24 - event_2.s24;
             double x4 = event_1.s34 * event_2.s34;
             double x5 = event_1.s134 * event_2.s134;
-            double distance = my_exp(sqrt(x1*x1 + x2*x2 + x3*x3 + x4*x4 + x5*x5)); 
+            double distance = sqrt(x1*x1 + x2*x2 + x3*x3 + x4*x4 + x5*x5); 
             double distance2 = distance*distance; 
             double distance4 = distance2*distance2; 
             double distance3 = distance*distance2; 

@@ -1,0 +1,40 @@
+nohup: ignoring input
+
+ 
+Running on ensemble 0 of 100
+Running in exact mode
+Distance parameter set to 0.5
+Dataset 1 size is 2000
+Dataset 2 size is 2000
+
+Calculating test statistic for nominal dataset:
+    dist_11 = 0.19214
+    dist_22 = 0.200478
+    dist_12 = 0.392784
+    difference in counts (T) is -0.000165537
+    T = -0.000165537
+
+Running 5000 permutations of 100 and 100 events using seed 5489
+Calculating permutation 100 of 5000
+Calculating permutation 200 of 5000
+Calculating permutation 300 of 5000
+Calculating permutation 400 of 5000
+Calculating permutation 500 of 5000
+Calculating permutation 600 of 5000
+Calculating permutation 700 of 5000
+Calculating permutation 800 of 5000
+Calculating permutation 900 of 5000
+Calculating permutation 1000 of 5000
+Calculating permutation 1100 of 5000
+Calculating permutation 1200 of 5000
+Calculating permutation 1300 of 5000
+Calculating permutation 1400 of 5000
+Calculating permutation 1500 of 5000
+Calculating permutation 1600 of 5000
+Calculating permutation 1700 of 5000
+Calculating permutation 1800 of 5000
+Calculating permutation 1900 of 5000
+Calculating permutation 2000 of 5000
+Calculating permutation 2100 of 5000
+Calculating permutation 2200 of 5000
+Calculating permutation 2300 of 5000

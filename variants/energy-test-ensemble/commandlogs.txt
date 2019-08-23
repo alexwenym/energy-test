@@ -1,0 +1,1 @@
+nohup ./energy_test ../../../ensemble_preprocess/ensemble_s1_5.5k.txt ../../../ensemble_preprocess/ensemble_s2_5.5k.txt throwaway.txt --n-permutations=10000 --delta-value=0.2 --max-permutation-events-1=100 > ensemble_d0.2_n10k_e5.5k.out 2>&1 &

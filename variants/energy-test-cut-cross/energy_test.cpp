@@ -75,7 +75,7 @@ double compute_distance(const std::vector<Event> &data_1, const std::vector<Even
                 sqrt(x1*x1 + x2*x2 + x3*x3 + x4*x4 + x5*x5);
             //if (distance < 0.4387862)
             //if (distance > 0.1793)
-            if (distance > 0.5) 
+            if (distance > 0.35) 
             //if (distance > 0.6)
             total++; 
             //total = total + distance;

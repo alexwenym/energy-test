@@ -342,7 +342,7 @@ int run_energy_test(int argc, char *argv[]) {
       if (!permutations_only) {
         if (test_statistic > real_test_statistic) {
           nsig++;
-          //std::cout << "BOOM!" << std::endl; 
+          std::cout << "BOOM!" << std::endl; 
         }
       }
     }

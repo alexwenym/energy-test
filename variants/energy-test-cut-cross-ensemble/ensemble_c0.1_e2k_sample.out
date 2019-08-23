@@ -1,0 +1,7 @@
+nohup: ignoring input
+./energy_test: /usr/lib64/libstdc++.so.6: version `GLIBCXX_3.4.20' not found (required by ./energy_test)
+./energy_test: /usr/lib64/libstdc++.so.6: version `GLIBCXX_3.4.18' not found (required by ./energy_test)
+./energy_test: /usr/lib64/libstdc++.so.6: version `CXXABI_1.3.9' not found (required by ./energy_test)
+./energy_test: /usr/lib64/libstdc++.so.6: version `GLIBCXX_3.4.14' not found (required by ./energy_test)
+./energy_test: /usr/lib64/libstdc++.so.6: version `GLIBCXX_3.4.21' not found (required by ./energy_test)
+./energy_test: /usr/lib64/libstdc++.so.6: version `CXXABI_1.3.5' not found (required by ./energy_test)
