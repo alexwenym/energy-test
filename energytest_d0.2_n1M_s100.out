@@ -1,0 +1,241 @@
+nohup: ignoring input
+Running in exact mode
+Distance parameter set to 0.2
+Dataset 1 size is 50000
+Dataset 2 size is 50000
+
+Calculating test statistic for nominal dataset:
+    dist_11 = 0.128667
+    dist_22 = 0.127247
+    dist_12 = 0.255868
+  T = 4.56006e-05
+
+Running 1000000 permutations of 100 and 100 events using seed 9238
+Calculating permutation 10000 of 1000000
+Calculating permutation 20000 of 1000000
+Calculating permutation 30000 of 1000000
+Calculating permutation 40000 of 1000000
+Calculating permutation 50000 of 1000000
+Calculating permutation 60000 of 1000000
+Calculating permutation 70000 of 1000000
+Calculating permutation 80000 of 1000000
+Calculating permutation 90000 of 1000000
+Calculating permutation 100000 of 1000000
+Calculating permutation 110000 of 1000000
+Calculating permutation 120000 of 1000000
+Calculating permutation 130000 of 1000000
+Calculating permutation 140000 of 1000000
+Calculating permutation 150000 of 1000000
+Calculating permutation 160000 of 1000000
+Calculating permutation 170000 of 1000000
+Calculating permutation 180000 of 1000000
+Calculating permutation 190000 of 1000000
+Calculating permutation 200000 of 1000000
+Calculating permutation 210000 of 1000000
+Calculating permutation 220000 of 1000000
+Calculating permutation 230000 of 1000000
+Calculating permutation 240000 of 1000000
+Calculating permutation 250000 of 1000000
+Calculating permutation 260000 of 1000000
+Calculating permutation 270000 of 1000000
+Calculating permutation 280000 of 1000000
+Calculating permutation 290000 of 1000000
+Calculating permutation 300000 of 1000000
+Calculating permutation 310000 of 1000000
+Calculating permutation 320000 of 1000000
+Calculating permutation 330000 of 1000000
+Calculating permutation 340000 of 1000000
+Calculating permutation 350000 of 1000000
+Calculating permutation 360000 of 1000000
+Calculating permutation 370000 of 1000000
+Calculating permutation 380000 of 1000000
+Calculating permutation 390000 of 1000000
+Calculating permutation 400000 of 1000000
+Calculating permutation 410000 of 1000000
+Calculating permutation 420000 of 1000000
+Calculating permutation 430000 of 1000000
+Calculating permutation 440000 of 1000000
+Calculating permutation 450000 of 1000000
+Calculating permutation 460000 of 1000000
+Calculating permutation 470000 of 1000000
+Calculating permutation 480000 of 1000000
+Calculating permutation 490000 of 1000000
+Calculating permutation 500000 of 1000000
+Calculating permutation 510000 of 1000000
+Calculating permutation 520000 of 1000000
+Calculating permutation 530000 of 1000000
+Calculating permutation 540000 of 1000000
+Calculating permutation 550000 of 1000000
+Calculating permutation 560000 of 1000000
+Calculating permutation 570000 of 1000000
+Calculating permutation 580000 of 1000000
+Calculating permutation 590000 of 1000000
+Calculating permutation 600000 of 1000000
+Calculating permutation 610000 of 1000000
+Calculating permutation 620000 of 1000000
+Calculating permutation 630000 of 1000000
+Calculating permutation 640000 of 1000000
+Calculating permutation 650000 of 1000000
+Calculating permutation 660000 of 1000000
+Calculating permutation 670000 of 1000000
+Calculating permutation 680000 of 1000000
+Calculating permutation 690000 of 1000000
+Calculating permutation 700000 of 1000000
+Calculating permutation 710000 of 1000000
+Calculating permutation 720000 of 1000000
+Calculating permutation 730000 of 1000000
+Calculating permutation 740000 of 1000000
+Calculating permutation 750000 of 1000000
+Calculating permutation 760000 of 1000000
+Calculating permutation 770000 of 1000000
+Calculating permutation 780000 of 1000000
+Calculating permutation 790000 of 1000000
+Calculating permutation 800000 of 1000000
+Calculating permutation 810000 of 1000000
+Calculating permutation 820000 of 1000000
+Calculating permutation 830000 of 1000000
+Calculating permutation 840000 of 1000000
+Calculating permutation 850000 of 1000000
+Calculating permutation 860000 of 1000000
+Calculating permutation 870000 of 1000000
+Calculating permutation 880000 of 1000000
+Calculating permutation 890000 of 1000000
+Calculating permutation 900000 of 1000000
+Calculating permutation 910000 of 1000000
+Calculating permutation 920000 of 1000000
+Calculating permutation 930000 of 1000000
+Calculating permutation 940000 of 1000000
+Calculating permutation 950000 of 1000000
+Calculating permutation 960000 of 1000000
+Calculating permutation 970000 of 1000000
+Calculating permutation 980000 of 1000000
+Calculating permutation 990000 of 1000000
+Calculating permutation 1000000 of 1000000
+p value is: 0.000644
+nohup: ignoring input
+Running in exact mode
+Distance parameter set to 0.2
+Dataset 1 size is 50000
+Dataset 2 size is 50000
+
+Calculating test statistic for nominal dataset:
+    dist_11 = 0.128667
+    dist_22 = 0.127247
+    dist_12 = 0.255868
+  T = 4.56006e-05
+
+Running 100000000 permutations of 100 and 100 events using seed 5948
+nohup: ignoring input
+Running in exact mode
+Distance parameter set to 0.2
+Dataset 1 size is 50000
+Dataset 2 size is 50000
+
+Calculating test statistic for nominal dataset:
+    dist_11 = 0.128667
+    dist_22 = 0.127247
+    dist_12 = 0.255868
+  T = 4.56006e-05
+
+Running 1000000 permutations of 100 and 100 events using seed 5948
+Calculating permutation 10000 of 1000000
+Calculating permutation 20000 of 1000000
+Calculating permutation 30000 of 1000000
+Calculating permutation 40000 of 1000000
+Calculating permutation 50000 of 1000000
+Calculating permutation 60000 of 1000000
+Calculating permutation 70000 of 1000000
+Calculating permutation 80000 of 1000000
+Calculating permutation 90000 of 1000000
+Calculating permutation 100000 of 1000000
+Calculating permutation 110000 of 1000000
+Calculating permutation 120000 of 1000000
+Calculating permutation 130000 of 1000000
+Calculating permutation 140000 of 1000000
+Calculating permutation 150000 of 1000000
+Calculating permutation 160000 of 1000000
+Calculating permutation 170000 of 1000000
+Calculating permutation 180000 of 1000000
+Calculating permutation 190000 of 1000000
+Calculating permutation 200000 of 1000000
+Calculating permutation 210000 of 1000000
+Calculating permutation 220000 of 1000000
+Calculating permutation 230000 of 1000000
+Calculating permutation 240000 of 1000000
+Calculating permutation 250000 of 1000000
+Calculating permutation 260000 of 1000000
+Calculating permutation 270000 of 1000000
+Calculating permutation 280000 of 1000000
+Calculating permutation 290000 of 1000000
+Calculating permutation 300000 of 1000000
+Calculating permutation 310000 of 1000000
+Calculating permutation 320000 of 1000000
+Calculating permutation 330000 of 1000000
+Calculating permutation 340000 of 1000000
+Calculating permutation 350000 of 1000000
+Calculating permutation 360000 of 1000000
+Calculating permutation 370000 of 1000000
+Calculating permutation 380000 of 1000000
+Calculating permutation 390000 of 1000000
+Calculating permutation 400000 of 1000000
+Calculating permutation 410000 of 1000000
+Calculating permutation 420000 of 1000000
+Calculating permutation 430000 of 1000000
+Calculating permutation 440000 of 1000000
+Calculating permutation 450000 of 1000000
+Calculating permutation 460000 of 1000000
+Calculating permutation 470000 of 1000000
+Calculating permutation 480000 of 1000000
+Calculating permutation 490000 of 1000000
+Calculating permutation 500000 of 1000000
+Calculating permutation 510000 of 1000000
+Calculating permutation 520000 of 1000000
+Calculating permutation 530000 of 1000000
+Calculating permutation 540000 of 1000000
+Calculating permutation 550000 of 1000000
+Calculating permutation 560000 of 1000000
+Calculating permutation 570000 of 1000000
+Calculating permutation 580000 of 1000000
+Calculating permutation 590000 of 1000000
+Calculating permutation 600000 of 1000000
+Calculating permutation 610000 of 1000000
+Calculating permutation 620000 of 1000000
+Calculating permutation 630000 of 1000000
+Calculating permutation 640000 of 1000000
+Calculating permutation 650000 of 1000000
+Calculating permutation 660000 of 1000000
+Calculating permutation 670000 of 1000000
+Calculating permutation 680000 of 1000000
+Calculating permutation 690000 of 1000000
+Calculating permutation 700000 of 1000000
+Calculating permutation 710000 of 1000000
+Calculating permutation 720000 of 1000000
+Calculating permutation 730000 of 1000000
+Calculating permutation 740000 of 1000000
+Calculating permutation 750000 of 1000000
+Calculating permutation 760000 of 1000000
+Calculating permutation 770000 of 1000000
+Calculating permutation 780000 of 1000000
+Calculating permutation 790000 of 1000000
+Calculating permutation 800000 of 1000000
+Calculating permutation 810000 of 1000000
+Calculating permutation 820000 of 1000000
+Calculating permutation 830000 of 1000000
+Calculating permutation 840000 of 1000000
+Calculating permutation 850000 of 1000000
+Calculating permutation 860000 of 1000000
+Calculating permutation 870000 of 1000000
+Calculating permutation 880000 of 1000000
+Calculating permutation 890000 of 1000000
+Calculating permutation 900000 of 1000000
+Calculating permutation 910000 of 1000000
+Calculating permutation 920000 of 1000000
+Calculating permutation 930000 of 1000000
+Calculating permutation 940000 of 1000000
+Calculating permutation 950000 of 1000000
+Calculating permutation 960000 of 1000000
+Calculating permutation 970000 of 1000000
+Calculating permutation 980000 of 1000000
+Calculating permutation 990000 of 1000000
+Calculating permutation 1000000 of 1000000
+p value is: 0.000615
